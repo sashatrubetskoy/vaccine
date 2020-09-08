@@ -170,5 +170,23 @@
                 "doses": "7.6e7"
             }
         ]
+    },
+    {
+        "url": "https://www.aljazeera.com/news/2020/08/mexico-signs-covid-19-vaccine-deal-cases-top-500000-200814061708568.html",
+        "headline": "Mexico signs COVID-19 vaccine deal as cases top 500,000",
+        "publication": "Al Jazeera",
+        "timestamp": 1597377600,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "OxfordAZ",
+                "interest": 70
+            },
+            {
+                "country": "Argentina",
+                "vaccine": "OxfordAZ",
+                "interest": 70
+            }
+        ]
     }
 ]
