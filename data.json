@@ -1,0 +1,73 @@
+[
+   {
+      "url": "https://www.politico.com/news/2020/07/29/coronavirus-vaccines-distribution-386032",
+      "headline": "The ultimate geopolitical game — distributing a coronavirus vaccine",
+      "publication": "Politico",
+      "timestamp": 1596022860,
+      "info": [
+         {
+            "country": "UK",
+            "vaccine": "BNTPfizer",
+            "doses": 30000000
+         },
+         {
+            "country": "UK",
+            "vaccine": "OxfordAZ",
+            "doses": 100000000
+         },
+         {
+            "country": "UK",
+            "vaccine": "GSKSanofi",
+            "doses": 60000000
+         },
+         {
+            "country": "United States",
+            "vaccine": "BNTPfizer",
+            "doses": 600000000
+         },
+         {
+            "country": "United States",
+            "vaccine": "OxfordAZ",
+            "doses": 300000000
+         },
+         {
+            "country": "United States",
+            "vaccine": "Novavax",
+            "doses": 100000000
+         },
+         {
+            "country": "Netherlands",
+            "vaccine": "OxfordAZ",
+            "doses": 30000000
+         },
+         {
+            "country": "Germany",
+            "vaccine": "OxfordAZ",
+            "doses": 146000000
+         },
+         {
+            "country": "France",
+            "vaccine": "OxfordAZ",
+            "doses": 118000000
+         },
+         {
+            "country": "Italy",
+            "vaccine": "OxfordAZ",
+            "doses": 106000000
+         }
+      ]
+   },
+   {
+      "url": "https://www.reuters.com/article/us-health-coronavirus-australia/australia-secures-access-to-astrazeneca-covid-19-vaccine-within-months-idUSKBN25Y003",
+      "headline": "Australia expects to receive AstraZeneca's COVID-19 vaccine within months",
+      "publication": "Reuters",
+      "timestamp": 1599437160,
+      "info": [
+         {
+            "country": "Australia",
+            "vaccine": "OxfordAZ",
+            "doses": 85000000
+         }
+      ]
+   }
+]
