@@ -8,37 +8,37 @@
          {
             "country": "United Kingdom",
             "vaccine": "BNTPfizer",
-            "doses": 3e7
+            "doses": 30000000
          },
          {
             "country": "United Kingdom",
             "vaccine": "OxfordAZ",
-            "doses": 1e8
+            "doses": 100000000
          },
          {
             "country": "United Kingdom",
             "vaccine": "GSKSanofi",
-            "doses": 6e7
+            "doses": 60000000
          },
          {
             "country": "United States of America",
             "vaccine": "BNTPfizer",
-            "doses": 6e8
+            "doses": 600000000
          },
          {
             "country": "United States of America",
             "vaccine": "OxfordAZ",
-            "doses": 3e8
+            "doses": 300000000
          },
          {
             "country": "United States of America",
             "vaccine": "Novavax",
-            "doses": 1e8
+            "doses": 100000000
          },
          {
             "country": "Netherlands",
             "vaccine": "OxfordAZ",
-            "doses": 3e7
+            "doses": 30000000
          },
          {
             "country": "Germany",
@@ -67,6 +67,89 @@
             "country": "Australia",
             "vaccine": "OxfordAZ",
             "doses": 85000000
+         }
+      ]
+   },
+   {
+      "url": "https://www.reuters.com/article/us-health-coronavirus-philippines-pfizer/philippines-talking-to-pfizer-russia-on-covid-19-vaccine-supply-idUSKBN25V0SE",
+      "headline": "Philippines talking to Pfizer, Russia on COVID-19 vaccine supply",
+      "publication": "Reuters",
+      "timestamp": 1599201060,
+      "info": [
+         {
+            "country": "Philippines",
+            "vaccine": "Sputnik",
+            "interest": 50
+         }
+      ]
+   },
+   {
+      "url": "https://www.biopharma-reporter.com/Article/2020/08/31/Takeda-sets-up-deal-to-distribute-Moderna-s-COVID-19-vaccine-in-Japan",
+      "headline": "Takeda sets up deal to distribute Moderna's COVID-19 vaccine in Japan",
+      "publication": "BioPharma Reporter",
+      "timestamp": 1598846400,
+      "info": [
+         {
+            "country": "Japan",
+            "vaccine": "Moderna",
+            "doses": 40000000
+         }
+      ]
+   },
+   {
+      "url": "https://www.euroweeklynews.com/2020/09/07/spain-promises-3-million-covid-19-vaccine-doses-for-december-ready-for-yours/",
+      "headline": "Spain Promises 3 Million COVID-19 Vaccine Doses for December- Ready For Yours?",
+      "publication": "Euro Weekly News",
+      "timestamp": 1599528780,
+      "info": [
+         {
+            "country": "Spain",
+            "vaccine": "OxfordAZ",
+            "doses": 30000000
+         }
+      ]
+   },
+   {
+      "url": "https://tass.com/russia/1198309",
+      "headline": "First batch of Sputnik V vaccine for civilian circulation produced in Russia",
+      "publication": "TASS",
+      "timestamp": 1599516060,
+      "info": [
+         {
+            "country": "Russia",
+            "vaccine": "Sputnik",
+            "interest": 100
+         }
+      ]
+   },
+   {
+      "url": "https://www.ukrinform.net/rubric-society/3093523-ukraine-in-talks-on-purchase-of-covid19-vaccine-with-two-manufacturers.html",
+      "headline": "Ukraine in talks on purchase of COVID-19 vaccine with two manufacturers",
+      "publication": "UKRInform",
+      "timestamp": 1599244860,
+      "info": [
+         {
+            "country": "Ukraine",
+            "vaccine": "OxfordAZ",
+            "interest": 50
+         },
+         {
+            "country": "Ukraine",
+            "vaccine": "Sinovac",
+            "interest": 50
+         }
+      ]
+   },
+   {
+      "url": "https://tass.com/society/1196991",
+      "headline": "PM Mishustin: Russia will help Belarus with COVID-19 vaccine",
+      "publication": "TASS",
+      "timestamp": 1599139860,
+      "info": [
+         {
+            "country": "Belarus",
+            "vaccine": "Sputnik",
+            "interest": 90
          }
       ]
    }
