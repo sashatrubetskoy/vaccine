@@ -6,39 +6,39 @@
       "timestamp": 1596022860,
       "info": [
          {
-            "country": "UK",
+            "country": "United Kingdom",
             "vaccine": "BNTPfizer",
-            "doses": 30000000
+            "doses": 3e7
          },
          {
-            "country": "UK",
+            "country": "United Kingdom",
             "vaccine": "OxfordAZ",
-            "doses": 100000000
+            "doses": 1e8
          },
          {
-            "country": "UK",
+            "country": "United Kingdom",
             "vaccine": "GSKSanofi",
-            "doses": 60000000
+            "doses": 6e7
          },
          {
             "country": "United States",
             "vaccine": "BNTPfizer",
-            "doses": 600000000
+            "doses": 6e8
          },
          {
             "country": "United States",
             "vaccine": "OxfordAZ",
-            "doses": 300000000
+            "doses": 3e8
          },
          {
             "country": "United States",
             "vaccine": "Novavax",
-            "doses": 100000000
+            "doses": 1e8
          },
          {
             "country": "Netherlands",
             "vaccine": "OxfordAZ",
-            "doses": 30000000
+            "doses": 3e7
          },
          {
             "country": "Germany",
