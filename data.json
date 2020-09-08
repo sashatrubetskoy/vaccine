@@ -157,5 +157,18 @@
                 "interest": 90
             }
         ]
+    },
+    {
+        "url": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html",
+        "headline": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
+        "publication": "CNBC",
+        "timestamp": 1598912580,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "Novavax",
+                "doses": "7.6e7"
+            }
+        ]
     }
 ]
