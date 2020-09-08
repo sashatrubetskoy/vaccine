@@ -188,5 +188,31 @@
                 "interest": 70
             }
         ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazil-eyes-coronavirus-vaccine-rollout-in-january-acting-health-minister-says-idUSKBN25Z38W",
+        "headline": "Brazil eyes coronavirus vaccine rollout in January, acting health minister says",
+        "publication": "Reuters",
+        "timestamp": 1599601860,
+        "info": [
+            {
+                "country": "Brazil",
+                "vaccine": "OxfordAZ",
+                "doses": "3e7"
+            }
+        ]
+    },
+    {
+        "url": "https://www.fiercepharma.com/manufacturing/astrazeneca-unveils-massive-750m-deal-effort-to-produce-billions-covid-19-shots",
+        "headline": "AstraZeneca unveils massive $750M deal in effort to produce billions of COVID-19 shots",
+        "publication": "Fierce Pharma",
+        "timestamp": 1591283280,
+        "info": [
+            {
+                "country": "India",
+                "vaccine": "OxfordAZ",
+                "doses": "1e9"
+            }
+        ]
     }
 ]
