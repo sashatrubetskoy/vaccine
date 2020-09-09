@@ -36,9 +36,139 @@
                 "doses": 100000000
             },
             {
-                "country": "European Union",
+                "country": "Austria",
                 "vaccine": "OxfordAZ",
-                "doses": 400000000
+                "doses": 7880000
+            },
+            {
+                "country": "Belgium",
+                "vaccine": "OxfordAZ",
+                "doses": 10200000
+            },
+            {
+                "country": "Bulgaria",
+                "vaccine": "OxfordAZ",
+                "doses": 6360000
+            },
+            {
+                "country": "Croatia",
+                "vaccine": "OxfordAZ",
+                "doses": 3720000
+            },
+            {
+                "country": "Cyprus",
+                "vaccine": "OxfordAZ",
+                "doses": 760000
+            },
+            {
+                "country": "Czech Republic",
+                "vaccine": "OxfordAZ",
+                "doses": 9480000
+            },
+            {
+                "country": "Denmark",
+                "vaccine": "OxfordAZ",
+                "doses": 5160000
+            },
+            {
+                "country": "Estonia",
+                "vaccine": "OxfordAZ",
+                "doses": 1200000
+            },
+            {
+                "country": "Finland",
+                "vaccine": "OxfordAZ",
+                "doses": 4920000
+            },
+            {
+                "country": "France",
+                "vaccine": "OxfordAZ",
+                "doses": 60120000
+            },
+            {
+                "country": "Germany",
+                "vaccine": "OxfordAZ",
+                "doses": 74040000
+            },
+            {
+                "country": "Greece",
+                "vaccine": "OxfordAZ",
+                "doses": 9680000
+            },
+            {
+                "country": "Hungary",
+                "vaccine": "OxfordAZ",
+                "doses": 8800000
+            },
+            {
+                "country": "Ireland",
+                "vaccine": "OxfordAZ",
+                "doses": 4400000
+            },
+            {
+                "country": "Italy",
+                "vaccine": "OxfordAZ",
+                "doses": 54360000
+            },
+            {
+                "country": "Latvia",
+                "vaccine": "OxfordAZ",
+                "doses": 1760000
+            },
+            {
+                "country": "Lithuania",
+                "vaccine": "OxfordAZ",
+                "doses": 2560000
+            },
+            {
+                "country": "Luxembourg",
+                "vaccine": "OxfordAZ",
+                "doses": 520000
+            },
+            {
+                "country": "Malta",
+                "vaccine": "OxfordAZ",
+                "doses": 400000
+            },
+            {
+                "country": "Netherlands",
+                "vaccine": "OxfordAZ",
+                "doses": 15320000
+            },
+            {
+                "country": "Poland",
+                "vaccine": "OxfordAZ",
+                "doses": 34080000
+            },
+            {
+                "country": "Portugal",
+                "vaccine": "OxfordAZ",
+                "doses": 9240000
+            },
+            {
+                "country": "Romania",
+                "vaccine": "OxfordAZ",
+                "doses": 17640000
+            },
+            {
+                "country": "Slovakia",
+                "vaccine": "OxfordAZ",
+                "doses": 4880000
+            },
+            {
+                "country": "Slovenia",
+                "vaccine": "OxfordAZ",
+                "doses": 1840000
+            },
+            {
+                "country": "Spain",
+                "vaccine": "OxfordAZ",
+                "doses": 41760000
+            },
+            {
+                "country": "Sweden",
+                "vaccine": "OxfordAZ",
+                "doses": 8960000
             }
         ]
     },
@@ -561,6 +691,45 @@
                 "country": "Japan",
                 "vaccine": "Moderna",
                 "doses": 40000000
+            }
+        ]
+    },
+    {
+        "url": "https://investors.modernatx.com/news-releases/news-release-details/moderna-confirms-advanced-discussions-european-commission-supply",
+        "headline": "Moderna Confirms Advanced Discussions with European Commission to Supply Europe with 80 Million Doses of mRNA Vaccine Against COVID-19 (mRNA-1273)",
+        "publication": "Moderna",
+        "timestamp": 1598241600,
+        "info": [
+            {
+                "country": "European Union",
+                "vaccine": "Moderna",
+                "doses": 80000000
+            }
+        ]
+    },
+    {
+        "url": "https://investors.modernatx.com/news-releases/news-release-details/moderna-confirms-advanced-discussions-european-commission-supply",
+        "headline": "Moderna Announces Supply Agreement with U.S. Government for Initial 100 Million Doses of mRNA Vaccine Against COVID-19 (mRNA-1273)",
+        "publication": "Moderna",
+        "timestamp": 1597182540,
+        "info": [
+            {
+                "country": "United States",
+                "vaccine": "Moderna",
+                "doses": 100000000
+            }
+        ]
+    },
+    {
+        "url": "https://news.bloomberglaw.com/coronavirus/sweden-to-join-eus-astrazeneca-agreement-on-covid-19-vaccine",
+        "headline": "Sweden to Join EU\u2019s AstraZeneca Agreement on Covid-19 Vaccine",
+        "publication": "Bloomberg Law",
+        "timestamp": 1597934460,
+        "info": [
+            {
+                "country": "Sweden",
+                "vaccine": "OxfordAZ",
+                "doses": 6000000
             }
         ]
     }
