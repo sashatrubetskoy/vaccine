@@ -1,0 +1,337 @@
+[
+    {
+        "url": "https://www.politico.com/news/2020/07/29/coronavirus-vaccines-distribution-386032",
+        "headline": "The ultimate geopolitical game \u2014 distributing a coronavirus vaccine",
+        "publication": "Politico",
+        "timestamp": 1596022860,
+        "info": [
+            {
+                "country": "United Kingdom",
+                "vaccine": "BNTPfizer",
+                "doses": 30000000
+            },
+            {
+                "country": "United Kingdom",
+                "vaccine": "OxfordAZ",
+                "doses": 100000000
+            },
+            {
+                "country": "United Kingdom",
+                "vaccine": "GSKSanofi",
+                "doses": 60000000
+            },
+            {
+                "country": "United States of America",
+                "vaccine": "BNTPfizer",
+                "doses": 600000000
+            },
+            {
+                "country": "United States of America",
+                "vaccine": "OxfordAZ",
+                "doses": 300000000
+            },
+            {
+                "country": "United States of America",
+                "vaccine": "Novavax",
+                "doses": 100000000
+            },
+            {
+                "country": "Netherlands",
+                "vaccine": "OxfordAZ",
+                "doses": 30000000
+            },
+            {
+                "country": "Germany",
+                "vaccine": "OxfordAZ",
+                "doses": 146000000
+            },
+            {
+                "country": "France",
+                "vaccine": "OxfordAZ",
+                "doses": 118000000
+            },
+            {
+                "country": "Italy",
+                "vaccine": "OxfordAZ",
+                "doses": 106000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-australia/australia-secures-access-to-astrazeneca-covid-19-vaccine-within-months-idUSKBN25Y003",
+        "headline": "Australia expects to receive AstraZeneca's COVID-19 vaccine within months",
+        "publication": "Reuters",
+        "timestamp": 1599437160,
+        "info": [
+            {
+                "country": "Australia",
+                "vaccine": "OxfordAZ",
+                "doses": 85000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-philippines-pfizer/philippines-talking-to-pfizer-russia-on-covid-19-vaccine-supply-idUSKBN25V0SE",
+        "headline": "Philippines talking to Pfizer, Russia on COVID-19 vaccine supply",
+        "publication": "Reuters",
+        "timestamp": 1599201060,
+        "info": [
+            {
+                "country": "Philippines",
+                "vaccine": "Sputnik",
+                "interest": 50
+            },
+            {
+                "country": "Philippines",
+                "vaccine": "BNTPfizer",
+                "interest": 50
+            }
+        ]
+    },
+    {
+        "url": "https://www.biopharma-reporter.com/Article/2020/08/31/Takeda-sets-up-deal-to-distribute-Moderna-s-COVID-19-vaccine-in-Japan",
+        "headline": "Takeda sets up deal to distribute Moderna's COVID-19 vaccine in Japan",
+        "publication": "BioPharma Reporter",
+        "timestamp": 1598846400,
+        "info": [
+            {
+                "country": "Japan",
+                "vaccine": "Moderna",
+                "doses": 40000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.euroweeklynews.com/2020/09/07/spain-promises-3-million-covid-19-vaccine-doses-for-december-ready-for-yours/",
+        "headline": "Spain Promises 3 Million COVID-19 Vaccine Doses for December- Ready For Yours?",
+        "publication": "Euro Weekly News",
+        "timestamp": 1599528780,
+        "info": [
+            {
+                "country": "Spain",
+                "vaccine": "OxfordAZ",
+                "doses": 30000000
+            }
+        ]
+    },
+    {
+        "url": "https://tass.com/russia/1198309",
+        "headline": "First batch of Sputnik V vaccine for civilian circulation produced in Russia",
+        "publication": "TASS",
+        "timestamp": 1599516060,
+        "info": [
+            {
+                "country": "Russia",
+                "vaccine": "Sputnik",
+                "interest": 100
+            }
+        ]
+    },
+    {
+        "url": "https://www.ukrinform.net/rubric-society/3093523-ukraine-in-talks-on-purchase-of-covid19-vaccine-with-two-manufacturers.html",
+        "headline": "Ukraine in talks on purchase of COVID-19 vaccine with two manufacturers",
+        "publication": "UKRInform",
+        "timestamp": 1599244860,
+        "info": [
+            {
+                "country": "Ukraine",
+                "vaccine": "OxfordAZ",
+                "interest": 50
+            },
+            {
+                "country": "Ukraine",
+                "vaccine": "Sinovac",
+                "interest": 50
+            }
+        ]
+    },
+    {
+        "url": "https://tass.com/society/1196991",
+        "headline": "PM Mishustin: Russia will help Belarus with COVID-19 vaccine",
+        "publication": "TASS",
+        "timestamp": 1599139860,
+        "info": [
+            {
+                "country": "Belarus",
+                "vaccine": "Sputnik",
+                "interest": 90
+            }
+        ]
+    },
+    {
+        "url": "https://www.cnbc.com/2020/08/31/canada-to-purchase-76-million-doses-of-novavax-coronavirus-vaccine-company-says.html",
+        "headline": "Canada to purchase 76 million doses of Novavax coronavirus vaccine, company says",
+        "publication": "CNBC",
+        "timestamp": 1598912580,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "Novavax",
+                "doses": "7.6e7"
+            }
+        ]
+    },
+    {
+        "url": "https://www.aljazeera.com/news/2020/08/mexico-signs-covid-19-vaccine-deal-cases-top-500000-200814061708568.html",
+        "headline": "Mexico signs COVID-19 vaccine deal as cases top 500,000",
+        "publication": "Al Jazeera",
+        "timestamp": 1597377600,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "OxfordAZ",
+                "interest": 70
+            },
+            {
+                "country": "Argentina",
+                "vaccine": "OxfordAZ",
+                "interest": 70
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazil-eyes-coronavirus-vaccine-rollout-in-january-acting-health-minister-says-idUSKBN25Z38W",
+        "headline": "Brazil eyes coronavirus vaccine rollout in January, acting health minister says",
+        "publication": "Reuters",
+        "timestamp": 1599601860,
+        "info": [
+            {
+                "country": "Brazil",
+                "vaccine": "OxfordAZ",
+                "doses": 30000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.fiercepharma.com/manufacturing/astrazeneca-unveils-massive-750m-deal-effort-to-produce-billions-covid-19-shots",
+        "headline": "AstraZeneca unveils massive $750M deal in effort to produce billions of COVID-19 shots",
+        "publication": "Fierce Pharma",
+        "timestamp": 1591283280,
+        "info": [
+            {
+                "country": "India",
+                "vaccine": "OxfordAZ",
+                "doses": 1000000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-sinovac-biotech-in/chinas-sinovac-enters-supply-deal-with-indonesia-for-covid-19-vaccine-doses-idUSKBN25L1PA",
+        "headline": "China's Sinovac enters supply deal with Indonesia for COVID-19 vaccine doses",
+        "publication": "Reuters",
+        "timestamp": 1598362620,
+        "info": [
+            {
+                "country": "Indonesia",
+                "vaccine": "Sinovac",
+                "doses": 40000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.moroccoworldnews.com/2020/08/317013/algeria-morocco-compete-with-russian-chinese-covid-19-vaccines/",
+        "headline": "Algeria, Morocco Compete With Russian, Chinese COVID-19 Vaccines",
+        "publication": "Morocco World News",
+        "timestamp": 1598846400,
+        "info": [
+            {
+                "country": "Morocco",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Algeria",
+                "vaccine": "Sputnik",
+                "interest": 50
+            }
+        ]
+    },
+    {
+        "url": "https://www.shine.cn/news/nation/2009075546/",
+        "headline": "Vaccine firms in deal for overseas trials",
+        "publication": "Reuters",
+        "info": [
+            {
+                "country": "Serbia",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Pakistan",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Jordan",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Argentina",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Morocco",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Peru",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Bahrain",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "United Arab Emirates",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Turkey",
+                "vaccine": "Sinovac",
+                "interest": 50
+            },
+            {
+                "country": "Bangladesh",
+                "vaccine": "Sinovac",
+                "interest": 50
+            }
+        ]
+    },
+    {
+        "url": "https://www.voanews.com/covid-19-pandemic/us-makes-deal-biotech-company-100-million-doses-potential-covid-19-vaccine",
+        "headline": "US Makes Deal with Biotech Company for 100 Million Doses of Potential COVID-19 Vaccine",
+        "publication": "Voice of America",
+        "timestamp": 1597190580,
+        "info": [
+            {
+                "country": "United States of America",
+                "vaccine": "Moderna",
+                "doses": 100000000
+            }
+        ]
+    },
+    {
+        "url": "https://asia.nikkei.com/Politics/International-relations/China-and-India-vie-for-clout-in-Bangladesh-with-COVID-vaccines",
+        "headline": "China and India vie for clout in Bangladesh with COVID vaccines",
+        "publication": "Nikkei",
+        "timestamp": 1599184920,
+        "info": [
+            {
+                "country": "Bangladesh",
+                "vaccine": "OxfordAZ",
+                "interest": 50
+            },
+            {
+                "country": "Bangladesh",
+                "vaccine": "Sinovac",
+                "interest": 50
+            }
+        ]
+    }
+]
