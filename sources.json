@@ -237,12 +237,14 @@
             {
                 "country": "Morocco",
                 "vaccine": "CNBG",
-                "interest": 50
+                "interest": 50,
+                "description": "clinical trials approved"
             },
             {
                 "country": "Algeria",
                 "vaccine": "Sputnik",
-                "interest": 50
+                "interest": 90,
+                "description": "purchase agreed"
             }
         ]
     },
@@ -255,52 +257,74 @@
             {
                 "country": "Serbia",
                 "vaccine": "CNBG",
-                "interest": 50
+                "interest": 50,
+                "description": "Phase 3 approved"
             },
             {
                 "country": "Pakistan",
                 "vaccine": "CNBG",
-                "interest": 50
+                "interest": 50,
+                "description": "Phase 3 approved"
             },
             {
                 "country": "Jordan",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "Argentina",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "Morocco",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "Peru",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "Bahrain",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "United Arab Emirates",
                 "vaccine": "CNBG",
-                "interest": 30
+                "interest": 30,
+                "description": "Phase 3 underway"
             },
             {
                 "country": "Turkey",
                 "vaccine": "Sinovac",
-                "interest": 50
+                "interest": 50,
+                "description": "Phase 3 approved"
             },
             {
                 "country": "Bangladesh",
                 "vaccine": "Sinovac",
-                "interest": 50
+                "interest": 50,
+                "description": "Phase 3 approved"
+            },
+            {
+                "country": "Brazil",
+                "vaccine": "Sinovac",
+                "interest": 50,
+                "description": "Phase 3 underway"
+            },
+            {
+                "country": "Indonesia",
+                "vaccine": "Sinovac",
+                "interest": 50,
+                "description": "Phase 3 underway"
             }
         ]
     },
@@ -326,12 +350,34 @@
             {
                 "country": "Bangladesh",
                 "vaccine": "OxfordAZ",
-                "interest": 50
+                "interest": 50,
+                "description": "prioritized supply agreement"
             },
             {
                 "country": "Bangladesh",
                 "vaccine": "Sinovac",
-                "interest": 50
+                "interest": 50,
+                "description": "stage three clinical trial"
+            }
+        ]
+    },
+    {
+        "url": "https://english.alaraby.co.uk/english/news/2020/8/13/russia-to-trial-vaccine-in-uae-saudi-arabia",
+        "headline": "Russia to trial controversial vaccine in UAE, Saudi Arabia amid safety concerns",
+        "publication": "The New Arab",
+        "timestamp": 1597291200,
+        "info": [
+            {
+                "country": "Saudi Arabia",
+                "vaccine": "Sputnik",
+                "interest": 50,
+                "description": "Phase 3 trial"
+            },
+            {
+                "country": "United Arab Emirates",
+                "vaccine": "Sputnik",
+                "interest": 50,
+                "description": "Phase 3 trial"
             }
         ]
     }
