@@ -214,5 +214,36 @@
                 "doses": "1e9"
             }
         ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-sinovac-biotech-in/chinas-sinovac-enters-supply-deal-with-indonesia-for-covid-19-vaccine-doses-idUSKBN25L1PA",
+        "headline": "China's Sinovac enters supply deal with Indonesia for COVID-19 vaccine doses",
+        "publication": "Reuters",
+        "timestamp": 1598362620,
+        "info": [
+            {
+                "country": "Indonesia",
+                "vaccine": "Sinovac",
+                "doses": "4e7"
+            }
+        ]
+    },
+    {
+        "url": "https://www.moroccoworldnews.com/2020/08/317013/algeria-morocco-compete-with-russian-chinese-covid-19-vaccines/",
+        "headline": "Algeria, Morocco Compete With Russian, Chinese COVID-19 Vaccines",
+        "publication": "Morocco World News",
+        "timestamp": 1598846400,
+        "info": [
+            {
+                "country": "Morocco",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Algeria",
+                "vaccine": "Sputnik",
+                "interest": 50
+            }
+        ]
     }
 ]
