@@ -36,24 +36,9 @@
                 "doses": 100000000
             },
             {
-                "country": "Netherlands",
+                "country": "European Union",
                 "vaccine": "OxfordAZ",
-                "doses": 30000000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "OxfordAZ",
-                "doses": 146000000
-            },
-            {
-                "country": "France",
-                "vaccine": "OxfordAZ",
-                "doses": 118000000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "OxfordAZ",
-                "doses": 106000000
+                "doses": 400000000
             }
         ]
     },
