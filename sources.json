@@ -461,6 +461,7 @@
             {
                 "country": "Mexico",
                 "vaccine": "Walvax",
+                "interest": 30,
                 "description": "signed memorandum of understanding"
             }
         ]
@@ -523,6 +524,45 @@
                 "country": "Canada",
                 "vaccine": "BNTPfizer",
                 "doses": 20000000
+            }
+        ]
+    },
+    {
+        "url": "https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-potentially-supply-eu-200-million-doses-mrna",
+        "headline": "Pfizer and BioNTech to Potentially Supply the EU with 200 Million Doses of mRNA-based Vaccine Candidate Against SARS-CoV-2",
+        "publication": "BioNTech",
+        "timestamp": 1599624000,
+        "info": [
+            {
+                "country": "European Union",
+                "vaccine": "BNTPfizer",
+                "doses": 300000000
+            }
+        ]
+    },
+    {
+        "url": "https://investors.biontech.de/news-releases/news-release-details/biontech-and-fosun-pharma-potentially-supply-10-million-doses",
+        "headline": "BioNTech and Fosun Pharma to Potentially Supply 10 Million Doses of BioNTech\u2019s BNT162 mRNA-based Vaccine Candidate Against SARS-CoV-2 to Hong Kong SAR and Macao SAR",
+        "publication": "BioNTech",
+        "timestamp": 1598500800,
+        "info": [
+            {
+                "country": "Hong Kong",
+                "vaccine": "BNTPfizer",
+                "doses": 10000000
+            }
+        ]
+    },
+    {
+        "url": "https://investors.biontech.de/news-releases/news-release-details/pfizer-and-biontech-supply-japan-120-million-doses-their-bnt162",
+        "headline": "Pfizer and BioNTech to Supply Japan with 120 Million Doses of Their BNT162 mRNA-Based Vaccine Candidate",
+        "publication": "BioNTech",
+        "timestamp": 1596168000,
+        "info": [
+            {
+                "country": "Japan",
+                "vaccine": "BNTPfizer",
+                "doses": 120000000
             }
         ]
     }
