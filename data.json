@@ -245,5 +245,93 @@
                 "interest": 50
             }
         ]
+    },
+    {
+        "url": "https://www.shine.cn/news/nation/2009075546/",
+        "headline": "Vaccine firms in deal for overseas trials",
+        "publication": "Reuters",
+        "info": [
+            {
+                "country": "Serbia",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Pakistan",
+                "vaccine": "CNBG",
+                "interest": 50
+            },
+            {
+                "country": "Jordan",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Argentina",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Morocco",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Peru",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Bahrain",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "United Arab Emirates",
+                "vaccine": "CNBG",
+                "interest": 30
+            },
+            {
+                "country": "Turkey",
+                "vaccine": "Sinovac",
+                "interest": 50
+            },
+            {
+                "country": "Bangladesh",
+                "vaccine": "Sinovac",
+                "interest": 50
+            }
+        ]
+    },
+    {
+        "url": "https://www.voanews.com/covid-19-pandemic/us-makes-deal-biotech-company-100-million-doses-potential-covid-19-vaccine",
+        "headline": "US Makes Deal with Biotech Company for 100 Million Doses of Potential COVID-19 Vaccine",
+        "publication": "Voice of America",
+        "timestamp": 1597190580,
+        "info": [
+            {
+                "country": "United States of America",
+                "vaccine": "Moderna",
+                "doses": "1e8"
+            }
+        ]
+    },
+    {
+        "url": "https://asia.nikkei.com/Politics/International-relations/China-and-India-vie-for-clout-in-Bangladesh-with-COVID-vaccines",
+        "headline": "China and India vie for clout in Bangladesh with COVID vaccines",
+        "publication": "Nikkei",
+        "timestamp": 1599184920,
+        "info": [
+            {
+                "country": "Bangladesh",
+                "vaccine": "OxfordAZ",
+                "interest": 50
+            },
+            {
+                "country": "Bangladesh",
+                "vaccine": "Sinovac",
+                "interest": 50
+            }
+        ]
     }
 ]
