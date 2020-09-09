@@ -38,132 +38,137 @@
             {
                 "country": "Austria",
                 "vaccine": "OxfordAZ",
-                "doses": 7650000
+                "doses": 7880000
             },
             {
                 "country": "Belgium",
                 "vaccine": "OxfordAZ",
-                "doses": 4770000
+                "doses": 10200000
             },
             {
                 "country": "Bulgaria",
                 "vaccine": "OxfordAZ",
-                "doses": 2790000
+                "doses": 6360000
             },
             {
                 "country": "Croatia",
                 "vaccine": "OxfordAZ",
-                "doses": 570000
+                "doses": 3720000
             },
             {
                 "country": "Cyprus",
                 "vaccine": "OxfordAZ",
-                "doses": 7110000
+                "doses": 760000
             },
             {
                 "country": "Czechia",
                 "vaccine": "OxfordAZ",
-                "doses": 3870000
+                "doses": 9480000
             },
             {
                 "country": "Denmark",
                 "vaccine": "OxfordAZ",
-                "doses": 900000
+                "doses": 5160000
             },
             {
                 "country": "Estonia",
                 "vaccine": "OxfordAZ",
-                "doses": 3690000
+                "doses": 1200000
             },
             {
                 "country": "Finland",
                 "vaccine": "OxfordAZ",
-                "doses": 45090000
+                "doses": 4920000
             },
             {
                 "country": "France",
                 "vaccine": "OxfordAZ",
-                "doses": 55530000
+                "doses": 60120000
             },
             {
                 "country": "Germany",
                 "vaccine": "OxfordAZ",
-                "doses": 7260000
+                "doses": 74040000
             },
             {
                 "country": "Greece",
                 "vaccine": "OxfordAZ",
-                "doses": 6600000
+                "doses": 9680000
             },
             {
                 "country": "Hungary",
                 "vaccine": "OxfordAZ",
-                "doses": 3300000
+                "doses": 8800000
             },
             {
                 "country": "Ireland",
                 "vaccine": "OxfordAZ",
-                "doses": 40770000
+                "doses": 4400000
             },
             {
                 "country": "Italy",
                 "vaccine": "OxfordAZ",
-                "doses": 1320000
+                "doses": 54360000
             },
             {
                 "country": "Latvia",
                 "vaccine": "OxfordAZ",
-                "doses": 1920000
+                "doses": 1760000
             },
             {
                 "country": "Lithuania",
                 "vaccine": "OxfordAZ",
-                "doses": 390000
+                "doses": 2560000
             },
             {
                 "country": "Luxembourg",
                 "vaccine": "OxfordAZ",
-                "doses": 300000
+                "doses": 520000
             },
             {
                 "country": "Malta",
                 "vaccine": "OxfordAZ",
-                "doses": 11490000
+                "doses": 400000
             },
             {
                 "country": "Netherlands",
                 "vaccine": "OxfordAZ",
-                "doses": 25560000
+                "doses": 15320000
             },
             {
                 "country": "Poland",
                 "vaccine": "OxfordAZ",
-                "doses": 6930000
+                "doses": 34080000
             },
             {
                 "country": "Portugal",
                 "vaccine": "OxfordAZ",
-                "doses": 13230000
+                "doses": 9240000
             },
             {
                 "country": "Romania",
                 "vaccine": "OxfordAZ",
-                "doses": 3660000
+                "doses": 17640000
             },
             {
                 "country": "Slovakia",
                 "vaccine": "OxfordAZ",
-                "doses": 1380000
+                "doses": 4880000
             },
             {
                 "country": "Slovenia",
                 "vaccine": "OxfordAZ",
-                "doses": 31320000
+                "doses": 1840000
             },
             {
                 "country": "Spain",
                 "vaccine": "OxfordAZ",
-                "doses": 6720000
+                "doses": 41760000
+            },
+            {
+                "country": "Sweden",
+                "vaccine": "OxfordAZ",
+                "doses": 8960000
             }
         ]
     },
@@ -646,132 +651,137 @@
             {
                 "country": "Austria",
                 "vaccine": "BNTPfizer",
-                "doses": 7650000
+                "doses": 7880000
             },
             {
                 "country": "Belgium",
                 "vaccine": "BNTPfizer",
-                "doses": 4770000
+                "doses": 10200000
             },
             {
                 "country": "Bulgaria",
                 "vaccine": "BNTPfizer",
-                "doses": 2790000
+                "doses": 6360000
             },
             {
                 "country": "Croatia",
                 "vaccine": "BNTPfizer",
-                "doses": 570000
+                "doses": 3720000
             },
             {
                 "country": "Cyprus",
                 "vaccine": "BNTPfizer",
-                "doses": 7110000
+                "doses": 760000
             },
             {
-                "country": "Czech Republic",
+                "country": "Czechia",
                 "vaccine": "BNTPfizer",
-                "doses": 3870000
+                "doses": 9480000
             },
             {
                 "country": "Denmark",
                 "vaccine": "BNTPfizer",
-                "doses": 900000
+                "doses": 5160000
             },
             {
                 "country": "Estonia",
                 "vaccine": "BNTPfizer",
-                "doses": 3690000
+                "doses": 1200000
             },
             {
                 "country": "Finland",
                 "vaccine": "BNTPfizer",
-                "doses": 45090000
+                "doses": 4920000
             },
             {
                 "country": "France",
                 "vaccine": "BNTPfizer",
-                "doses": 55530000
+                "doses": 60120000
             },
             {
                 "country": "Germany",
                 "vaccine": "BNTPfizer",
-                "doses": 7260000
+                "doses": 74040000
             },
             {
                 "country": "Greece",
                 "vaccine": "BNTPfizer",
-                "doses": 6600000
+                "doses": 9680000
             },
             {
                 "country": "Hungary",
                 "vaccine": "BNTPfizer",
-                "doses": 3300000
+                "doses": 8800000
             },
             {
                 "country": "Ireland",
                 "vaccine": "BNTPfizer",
-                "doses": 40770000
+                "doses": 4400000
             },
             {
                 "country": "Italy",
                 "vaccine": "BNTPfizer",
-                "doses": 1320000
+                "doses": 54360000
             },
             {
                 "country": "Latvia",
                 "vaccine": "BNTPfizer",
-                "doses": 1920000
+                "doses": 1760000
             },
             {
                 "country": "Lithuania",
                 "vaccine": "BNTPfizer",
-                "doses": 390000
+                "doses": 2560000
             },
             {
                 "country": "Luxembourg",
                 "vaccine": "BNTPfizer",
-                "doses": 300000
+                "doses": 520000
             },
             {
                 "country": "Malta",
                 "vaccine": "BNTPfizer",
-                "doses": 11490000
+                "doses": 400000
             },
             {
                 "country": "Netherlands",
                 "vaccine": "BNTPfizer",
-                "doses": 25560000
+                "doses": 15320000
             },
             {
                 "country": "Poland",
                 "vaccine": "BNTPfizer",
-                "doses": 6930000
+                "doses": 34080000
             },
             {
                 "country": "Portugal",
                 "vaccine": "BNTPfizer",
-                "doses": 13230000
+                "doses": 9240000
             },
             {
                 "country": "Romania",
                 "vaccine": "BNTPfizer",
-                "doses": 3660000
+                "doses": 17640000
             },
             {
                 "country": "Slovakia",
                 "vaccine": "BNTPfizer",
-                "doses": 1380000
+                "doses": 4880000
             },
             {
                 "country": "Slovenia",
                 "vaccine": "BNTPfizer",
-                "doses": 31320000
+                "doses": 1840000
             },
             {
                 "country": "Spain",
                 "vaccine": "BNTPfizer",
-                "doses": 6720000
+                "doses": 41760000
+            },
+            {
+                "country": "Sweden",
+                "vaccine": "BNTPfizer",
+                "doses": 8960000
             }
         ]
     },
