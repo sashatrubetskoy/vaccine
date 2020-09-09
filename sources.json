@@ -406,5 +406,124 @@
                 "doses": 2000000
             }
         ]
+    },
+    {
+        "url": "https://ria.ru/20200826/vaktsina-1576342539.html",
+        "headline": "27 countries wish to acquire Russian coronavirus vaccine",
+        "publication": "RIA",
+        "timestamp": 1598414400,
+        "info": [
+            {
+                "country": "Belarus",
+                "vaccine": "Sputnik",
+                "interest": 30
+            },
+            {
+                "country": "Azerbaijan",
+                "vaccine": "Sputnik",
+                "interest": 30
+            },
+            {
+                "country": "Brazil",
+                "vaccine": "Sputnik",
+                "interest": 30
+            },
+            {
+                "country": "Venezuela",
+                "vaccine": "Sputnik",
+                "interest": 30
+            },
+            {
+                "country": "Kazakhstan",
+                "vaccine": "Sputnik",
+                "interest": 30
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-mexico-vaccine/mexico-to-conduct-trials-for-china-u-s-covid-19-vaccines-eyes-production-idUSKCN2571TU",
+        "headline": "Mexico to trial China, U.S. COVID-19 vaccines, may produce some",
+        "publication": "Reuters",
+        "timestamp": 1597118400,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "Moderna",
+                "interest": 30,
+                "description": "signed memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "CanSino",
+                "interest": 30,
+                "description": "signed memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "Walvax",
+                "description": "signed memorandum of understanding"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-novavax-canada/canada-wants-to-be-at-front-of-line-for-coronavirus-vaccines-signs-deals-with-novavax-and-johnson-johnson-idUSKBN25R1SX",
+        "headline": "Canada wants to be at 'front of line' for coronavirus vaccines, signs deals with Novavax and Johnson & Johnson",
+        "publication": "Reuters",
+        "timestamp": 1598880360,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "OxfordAZ",
+                "interest": 99,
+                "description": "\"final stages of negotiations\u201d to secure AstraZeneca\u2019s (AZN.L) potential vaccine"
+            },
+            {
+                "country": "Canada",
+                "vaccine": "Moderna",
+                "doses": 38000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.cbc.ca/news/politics/vaccine-procurement-anand-bains-1.5674820",
+        "headline": "Feds sign agreements with Pfizer, Moderna for millions of doses of COVID-19 vaccines",
+        "publication": "CBC",
+        "timestamp": 1596635040,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "BNTPfizer",
+                "interest": 99,
+                "description": "agreement signed"
+            }
+        ]
+    },
+    {
+        "url": "https://www.cbc.ca/news/health/covid-vaccines-canada-profiles-1.5708240",
+        "headline": "A closer look at the vaccines Canada is betting on to stem the spread of COVID-19",
+        "publication": "CBC",
+        "timestamp": 1599033600,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "Janssen",
+                "doses": 38000000
+            },
+            {
+                "country": "Canada",
+                "vaccine": "Moderna",
+                "doses": 56000000
+            },
+            {
+                "country": "Canada",
+                "vaccine": "Novavax",
+                "doses": 76000000
+            },
+            {
+                "country": "Canada",
+                "vaccine": "BNTPfizer",
+                "doses": 20000000
+            }
+        ]
     }
 ]

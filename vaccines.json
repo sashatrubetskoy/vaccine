@@ -104,5 +104,44 @@
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ]
+    },
+    {
+        "alias": "Walvax",
+        "name": "Walvax/PLA",
+        "officialName": "None",
+        "originLocation": [
+            117.3616,
+            39.9042
+        ],
+        "locationDesc": "CanSinoBIO HQ",
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ]
+    },
+    {
+        "alias": "CanSino",
+        "name": "CanSinoBIO",
+        "officialName": "Ad5-nCoV",
+        "originLocation": [
+            102.8329,
+            24.8801
+        ],
+        "locationDesc": "Walvax HQ",
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ]
+    },
+    {
+        "alias": "Janssen",
+        "name": "Janssen",
+        "officialName": "Ad26.COV2.S",
+        "originLocation": [
+            4.8548,
+            51.3195
+        ],
+        "locationDesc": "Janssen HQ",
+        "flags": [
+            "\ud83c\udde7\ud83c\uddea"
+        ]
     }
 ]
