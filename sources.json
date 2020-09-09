@@ -550,5 +550,18 @@
                 "doses": 120000000
             }
         ]
+    },
+    {
+        "url": "https://investors.modernatx.com/news-releases/news-release-details/moderna-confirms-discussions-ministry-health-labour-and-welfare",
+        "headline": "Moderna Confirms Discussions with the Ministry of Health, Labour and Welfare to Supply Japan with 40 Million Doses of mRNA Vaccine Against COVID-19 (mRNA-1273)",
+        "publication": "Moderna",
+        "timestamp": 1598609940,
+        "info": [
+            {
+                "country": "Japan",
+                "vaccine": "Moderna",
+                "doses": 40000000
+            }
+        ]
     }
 ]
