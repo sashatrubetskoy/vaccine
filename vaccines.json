@@ -7,6 +7,7 @@
             -74.0218,
             41.059
         ],
+        "locationDesc": "Pfizer Pearl River, NY Lab",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8",
             "\ud83c\udde9\ud83c\uddea"
@@ -20,6 +21,7 @@
             1.2974,
             52.6309
         ],
+        "locationDesc": "Oxford University",
         "flags": [
             "\ud83c\uddec\ud83c\udde7"
         ]
@@ -32,6 +34,7 @@
             2.3522,
             48.8566
         ],
+        "locationDesc": "Sanofi HQ",
         "flags": [
             "\ud83c\uddec\ud83c\udde7",
             "\ud83c\uddeb\ud83c\uddf7"
@@ -45,6 +48,7 @@
             -77.1528,
             39.084
         ],
+        "locationDesc": "Novavax HQ",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8"
         ]
@@ -57,6 +61,7 @@
             37.6173,
             55.7558
         ],
+        "locationDesc": "Gamaleya Institute",
         "flags": [
             "\ud83c\uddf7\ud83c\uddfa"
         ]
@@ -69,6 +74,7 @@
             -71.1097,
             42.3736
         ],
+        "locationDesc": "Moderna HQ",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8"
         ]
@@ -81,6 +87,7 @@
             114.3055,
             30.5928
         ],
+        "locationDesc": "Wuhan Lab",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ]
@@ -93,6 +100,7 @@
             116.4074,
             39.9042
         ],
+        "locationDesc": "Sinopharm HQ",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ]
