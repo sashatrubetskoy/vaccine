@@ -97,7 +97,7 @@
             {
                 "country": "Japan",
                 "vaccine": "Moderna",
-                "doses": "4e7"
+                "doses": 40000000
             }
         ]
     },
@@ -110,7 +110,7 @@
             {
                 "country": "Spain",
                 "vaccine": "OxfordAZ",
-                "doses": "3e7"
+                "doses": 30000000
             }
         ]
     },
@@ -198,7 +198,7 @@
             {
                 "country": "Brazil",
                 "vaccine": "OxfordAZ",
-                "doses": "3e7"
+                "doses": 30000000
             }
         ]
     },
@@ -211,7 +211,7 @@
             {
                 "country": "India",
                 "vaccine": "OxfordAZ",
-                "doses": "1e9"
+                "doses": 1000000000
             }
         ]
     },
@@ -224,7 +224,7 @@
             {
                 "country": "Indonesia",
                 "vaccine": "Sinovac",
-                "doses": "4e7"
+                "doses": 40000000
             }
         ]
     },
@@ -312,7 +312,7 @@
             {
                 "country": "United States of America",
                 "vaccine": "Moderna",
-                "doses": "1e8"
+                "doses": 100000000
             }
         ]
     },
