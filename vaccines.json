@@ -1,0 +1,100 @@
+[
+    {
+        "alias": "BNTPfizer",
+        "name": "BioNTech/Pfizer",
+        "officialName": "BNT162",
+        "originLocation": [
+            -74.0218,
+            41.059
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8",
+            "\ud83c\udde9\ud83c\uddea"
+        ]
+    },
+    {
+        "alias": "OxfordAZ",
+        "name": "Oxford/AstraZeneca",
+        "officialName": "AZD1222",
+        "originLocation": [
+            0.1218,
+            52.2053
+        ],
+        "flags": [
+            "\ud83c\uddec\ud83c\udde7"
+        ]
+    },
+    {
+        "alias": "GSKSanofi",
+        "name": "GSK/Sanofi",
+        "officialName": "None",
+        "originLocation": [
+            2.3522,
+            48.8566
+        ],
+        "flags": [
+            "\ud83c\uddec\ud83c\udde7",
+            "\ud83c\uddeb\ud83c\uddf7"
+        ]
+    },
+    {
+        "alias": "Novavax",
+        "name": "Novavax",
+        "officialName": "NVX-CoV2373",
+        "originLocation": [
+            -77.1528,
+            39.084
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8"
+        ]
+    },
+    {
+        "alias": "Sputnik",
+        "name": "Sputnik V",
+        "officialName": "Gam-COVID-Vac",
+        "originLocation": [
+            37.6173,
+            55.7558
+        ],
+        "flags": [
+            "\ud83c\uddf7\ud83c\uddfa"
+        ]
+    },
+    {
+        "alias": "Moderna",
+        "name": "Moderna",
+        "officialName": "mRNA-1273",
+        "originLocation": [
+            -71.1097,
+            42.3736
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8"
+        ]
+    },
+    {
+        "alias": "Sinovac",
+        "name": "Sinovac",
+        "officialName": "CoronaVac",
+        "originLocation": [
+            114.3055,
+            30.5928
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ]
+    },
+    {
+        "alias": "CNBG",
+        "name": "CNBG/Sinopharm",
+        "officialName": "None",
+        "originLocation": [
+            116.4074,
+            39.9042
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ]
+    }
+]
