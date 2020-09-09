@@ -992,5 +992,60 @@
                 "doses": 6000000
             }
         ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-israel-russia/israel-to-examine-russias-covid-19-vaccine-minister-says-idUSKCN258139",
+        "headline": "Israel to examine Russia's COVID-19 vaccine, minister says",
+        "publication": "Reuters",
+        "timestamp": 1597223940,
+        "info": [
+            {
+                "country": "Israel",
+                "vaccine": "Sputnik",
+                "interest": 20,
+                "description": "examining vaccine"
+            }
+        ]
+    },
+    {
+        "url": "https://www.clinicaltrialsarena.com/news/cansino-vaccine-saudi-trial/",
+        "headline": "CanSino to conduct Phase III Covid-19 vaccine trial in Saudi Arabia",
+        "publication": "ClinicalTrials",
+        "timestamp": 1597032000,
+        "info": [
+            {
+                "country": "Saudi Arabia",
+                "vaccine": "CanSino",
+                "interest": 50,
+                "description": "Phase 3 trials"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-vaccine-pakistan/pakistan-gives-go-ahead-to-phase-3-covid-19-vaccine-trial-idUSKCN25E1IC",
+        "headline": "Pakistan gives go-ahead to Phase 3 COVID-19 vaccine trial",
+        "publication": "Reuters",
+        "timestamp": 1597723200,
+        "info": [
+            {
+                "country": "Pakistan",
+                "vaccine": "CanSino",
+                "interest": 50,
+                "description": "phase 3 trials"
+            }
+        ]
+    },
+    {
+        "url": "https://www.bag.admin.ch/bag/en/home/das-bag/aktuell/medienmitteilungen.msg-id-80005.html",
+        "headline": "Covid-19 vaccine: federal government signs agreement with biotechfirm Moderna",
+        "publication": "Federal Office of Public Health",
+        "timestamp": 1594180800,
+        "info": [
+            {
+                "country": "Switzerland",
+                "vaccine": "Moderna",
+                "doses": 4500000
+            }
+        ]
     }
 ]
