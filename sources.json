@@ -1098,5 +1098,72 @@
                 "doses": 30000000
             }
         ]
+    },
+    {
+        "url": "https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30401-X/fulltext",
+        "headline": "COVID-19 vaccine trials in Africa",
+        "publication": "The Lancet",
+        "timestamp": 1599192000,
+        "info": [
+            {
+                "country": "South Africa",
+                "vaccine": "OxfordAZ",
+                "interest": 40,
+                "description": "Ox1Cov-19 Vaccine VIDA trial"
+            },
+            {
+                "country": "South Africa",
+                "vaccine": "Janssen",
+                "interest": 40,
+                "description": "trial set for September 2020"
+            },
+            {
+                "country": "South Africa",
+                "vaccine": "Novavax",
+                "interest": 40,
+                "description": "Clinical trial"
+            }
+        ]
+    },
+    {
+        "url": "https://en.as.com/en/2020/09/04/latest_news/1599252474_593856.html",
+        "headline": "Nigeria receives the world's first registered Covid-19 vaccine from Russia",
+        "publication": "AS",
+        "timestamp": 1599278400,
+        "info": [
+            {
+                "country": "Nigeria",
+                "vaccine": "Sputnik",
+                "interest": 50,
+                "description": "samples received"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-russia/russia-approves-trial-of-astrazeneca-covid-19-vaccine-registry-filing-idUSKBN25H1QL",
+        "headline": "Russia approves trial of AstraZeneca COVID-19 vaccine: registry filing",
+        "publication": "Reuters",
+        "timestamp": 1597982400,
+        "info": [
+            {
+                "country": "Russia",
+                "vaccine": "OxfordAZ",
+                "interest": 70,
+                "description": "Phase III trial and manufacturing deal approved"
+            }
+        ]
+    },
+    {
+        "url": "https://www.themoscowtimes.com/2020/09/08/russia-begins-coronavirus-vaccine-rollout-a71378",
+        "headline": "Russia Begins Coronavirus Vaccine Rollout",
+        "publication": "Moscow Times",
+        "timestamp": 1599537600,
+        "info": [
+            {
+                "country": "Russia",
+                "vaccine": "Sputnik",
+                "doses": 80000000
+            }
+        ]
     }
 ]
