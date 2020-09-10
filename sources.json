@@ -1047,5 +1047,18 @@
                 "doses": 4500000
             }
         ]
+    },
+    {
+        "url": "https://www.statnews.com/2020/07/31/operation-warp-speed-sanofi-gsk-covid19-vaccine/",
+        "headline": "Sanofi and GSK land $2.1 billion deal with U.S. for Covid-19 vaccine development and 100 million doses",
+        "publication": "STAT",
+        "timestamp": 1596168000,
+        "info": [
+            {
+                "country": "United States of America",
+                "vaccine": "GSKSanofi",
+                "doses": 100000000
+            }
+        ]
     }
 ]
