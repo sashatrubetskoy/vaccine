@@ -1260,7 +1260,8 @@
     {
         "url": "https://www.reuters.com/article/us-health-coronavirus-latam-vaccine/mexico-needs-200-million-covid-19-vaccine-doses-shots-could-start-in-april-idUSKCN25B0YI",
         "headline": "Mexico needs 200 million COVID-19 vaccine doses; shots could start in April",
-        "publication": 1597464000,
+        "publication": "Reuters",
+        "timestamp": 1597464000,
         "info": [
             {
                 "country": "Mexico",
