@@ -1060,5 +1060,43 @@
                 "doses": 100000000
             }
         ]
+    },
+    {
+        "url": "https://fortune.com/2020/09/07/covid-vaccine-china-sinovac-employees-families-candidate/",
+        "headline": "A Chinese vaccine maker is injecting employees and their families with its COVID-19 candidate",
+        "publication": "Fortune",
+        "timestamp": 1599475500,
+        "info": [
+            {
+                "country": "China",
+                "vaccine": "Sinovac",
+                "interest": 0.8,
+                "description": "distributed under emergency gov't program"
+            },
+            {
+                "country": "China",
+                "vaccine": "CanSino",
+                "interest": 0.8,
+                "description": "distributed under emergency gov't program"
+            }
+        ]
+    },
+    {
+        "url": "https://www.marketwatch.com/story/uk-strikes-two-new-deals-for-90-million-covid-19-vaccine-doses-2020-08-14",
+        "headline": "U.K. strikes two Covid-19 vaccine deals for 90 million doses",
+        "publication": "MarketWatch",
+        "timestamp": 1597377600,
+        "info": [
+            {
+                "country": "United Kingdom",
+                "vaccine": "Novavax",
+                "doses": 60000000
+            },
+            {
+                "country": "United Kingdom",
+                "vaccine": "Janssen",
+                "doses": 30000000
+            }
+        ]
     }
 ]
