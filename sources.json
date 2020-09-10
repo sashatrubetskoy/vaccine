@@ -313,7 +313,7 @@
             {
                 "country": "Brazil",
                 "vaccine": "OxfordAZ",
-                "doses": 30000000
+                "doses": 100000000
             }
         ]
     },
@@ -1163,6 +1163,133 @@
                 "country": "Russia",
                 "vaccine": "Sputnik",
                 "doses": 80000000
+            }
+        ]
+    },
+    {
+        "url": "http://en.kabar.kg/news/kyrgyzstan-plans-to-purchase-russian-vaccine-against-covid-19/",
+        "headline": "Kyrgyzstan plans to purchase Russian vaccine against COVID-19",
+        "publication": "Kabar",
+        "timestamp": 1597550400,
+        "info": [
+            {
+                "country": "Kyrgyzstan",
+                "vaccine": "Sputnik",
+                "interest": 80,
+                "description": "plans to purchase once mass production begins"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-chile-vaccine/jj-adds-chile-argentina-and-peru-to-latin-america-covid-19-vaccine-trials-idUSKBN25M297",
+        "headline": "J&J adds Chile, Argentina and Peru to Latin America COVID-19 vaccine trials",
+        "publication": "Reuters",
+        "timestamp": 1598414400,
+        "info": [
+            {
+                "country": "Chile",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Argentina",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Peru",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Colombia",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Brazil",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            }
+        ]
+    },
+    {
+        "url": "https://www.contagionlive.com/news/sarscov2-vaccine-developers-sign-safety-pledge",
+        "headline": "SARS-CoV-2 Vaccine Developers Sign Safety Pledge",
+        "publication": "ContagionLive",
+        "timestamp": 1599537600,
+        "info": [
+            {
+                "country": "Chile",
+                "vaccine": "OxfordAZ",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            },
+            {
+                "country": "Peru",
+                "vaccine": "OxfordAZ",
+                "interest": 30,
+                "description": "Phase 3 trials"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-brazil/brazils-bolsonaro-orders-360-million-to-be-set-aside-for-astrazeneca-coronavirus-vaccine-idUSKCN2523BH",
+        "headline": "Brazil's Bolsonaro orders $360 million to be set aside for AstraZeneca coronavirus vaccine",
+        "publication": "Reuters",
+        "timestamp": 1596686400,
+        "info": [
+            {
+                "country": "Brazil",
+                "vaccine": "OxfordAZ",
+                "doses": 100000000
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-latam-vaccine/mexico-needs-200-million-covid-19-vaccine-doses-shots-could-start-in-april-idUSKCN25B0YI",
+        "headline": "Mexico needs 200 million COVID-19 vaccine doses; shots could start in April",
+        "publication": 1597464000,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "GSKSanofi",
+                "interest": 30,
+                "description": "memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "Janssen",
+                "interest": 30,
+                "description": "memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "CanSino",
+                "interest": 30,
+                "description": "memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "Walvax",
+                "interest": 30,
+                "description": "memorandum of understanding"
+            },
+            {
+                "country": "Mexico",
+                "vaccine": "OxfordAZ",
+                "doses": 40000000
             }
         ]
     }
