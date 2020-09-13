@@ -1513,7 +1513,82 @@
                 "country": "Thailand",
                 "vaccine": "Thai vaccine",
                 "interest": 80,
-                "description": "gov't supported domestic vaccine program"
+                "description": "Gov't supported domestic vaccine program"
+            }
+        ]
+    },
+    {
+        "url": "https://www.tehrantimes.com/news/452358/Iranian-COVID-19-vaccine-to-undergo-clinical-trial-soon",
+        "headline": "Iranian COVID-19 vaccine to undergo clinical trial soon",
+        "publication": "Tehran Times",
+        "timestamp": 1599883200,
+        "info": [
+            {
+                "country": "Iran",
+                "vaccine": "Iranian vaccine",
+                "interest": 80,
+                "description": "Gov't supported domestic vaccine program"
+            }
+        ]
+    },
+    {
+        "url": "https://pharmaphorum.com/news/losing-ground-in-covid-19-vaccine-race-cansino-turns-to-russia/",
+        "headline": "Losing ground in COVID-19 vaccine race, CanSino turns to Russia",
+        "publication": "PharmaPhorum",
+        "timestamp": 1599451200,
+        "info": [
+            {
+                "country": "Russia",
+                "vaccine": "CanSino",
+                "interest": 40,
+                "description": "Phase 3 in Russia approved"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-turkey-vaccine/turkey-considers-allowing-phase-iii-testing-of-russias-covid-19-vaccine-idUSKBN261392",
+        "headline": "Turkey considers allowing Phase III testing of Russia's COVID-19 vaccine",
+        "publication": "Reuters",
+        "timestamp": 1599710400,
+        "info": [
+            {
+                "country": "Turkey",
+                "vaccine": "Sputnik",
+                "interest": 30,
+                "description": "Considering Phase 3 for Russian vaccine"
+            }
+        ]
+    },
+    {
+        "url": "https://www.prnewswire.com/ae/news-releases/rdif-and-brazil-s-bahia-state-agree-to-supply-up-to-50-million-doses-of-sputnik-v-to-brazil-882736341.html",
+        "headline": "Brazilian state of Bahia plans to buy 50 million doses of Russia\u2019s vaccine",
+        "publication": "PRNewswire",
+        "timestamp": 1599796800,
+        "info": [
+            {
+                "country": "Brazil",
+                "vaccine": "Sputnik",
+                "doses": 50000000
+            }
+        ]
+    },
+    {
+        "url": "https://norwaytoday.info/news/the-swedish-government-will-secure-norway-with-covid-19-vaccines/",
+        "headline": "The Swedish government will secure Norway with Covid-19 vaccines",
+        "publication": "Norway Today",
+        "timestamp": 1599883200,
+        "info": [
+            {
+                "country": "Norway",
+                "vaccine": "OxfordAZ",
+                "interest": 80,
+                "description": "to purchase unknown quantity from EU via Sweden"
+            },
+            {
+                "country": "Iceland",
+                "vaccine": "OxfordAZ",
+                "interest": 80,
+                "description": "to purchase unknown quantity from EU via Sweden"
             }
         ]
     }

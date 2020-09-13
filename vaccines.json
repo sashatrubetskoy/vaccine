@@ -182,5 +182,19 @@
             "\ud83c\uddf9\ud83c\udded"
         ],
         "alliance": "Other"
+    },
+    {
+        "alias": "Iranian vaccine",
+        "name": "Iranian vaccine",
+        "officialName": "None",
+        "originLocation": [
+            51.389,
+            35.6892
+        ],
+        "locationDesc": "Iran University of Medical Sciences",
+        "flags": [
+            "\ud83c\uddf9\ud83c\udded"
+        ],
+        "alliance": "Other"
     }
 ]
