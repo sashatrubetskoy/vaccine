@@ -160,12 +160,26 @@
         "name": "Genexine",
         "officialName": "GX-19",
         "originLocation": [
-            37.5665,
-            126.978
+            126.978,
+            37.5665
         ],
         "locationDesc": "Genexine HQ",
         "flags": [
             "\ud83c\uddf0\ud83c\uddf7"
+        ],
+        "alliance": "Other"
+    },
+    {
+        "alias": "Thai vaccine",
+        "name": "Thai vaccine",
+        "officialName": "None",
+        "originLocation": [
+            100.5018,
+            13.7563
+        ],
+        "locationDesc": "National Vaccine Institute",
+        "flags": [
+            "\ud83c\uddf9\ud83c\udded"
         ],
         "alliance": "Other"
     }

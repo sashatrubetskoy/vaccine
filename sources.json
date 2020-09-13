@@ -1307,5 +1307,214 @@
                 "description": "Phase 1/2 trials"
             }
         ]
+    },
+    {
+        "url": "https://www.biopharma-reporter.com/Article/2020/09/10/EU-lines-up-deal-with-BioNTech-Pfizer-for-coronavirus-vaccine-supply",
+        "headline": "Europe lines up agreement with BioNTech-Pfizer for supply of coronavirus vaccine",
+        "publication": "BioPharma-Reporter",
+        "timestamp": 1599624000,
+        "info": [
+            {
+                "country": "Austria",
+                "vaccine": "BNTPfizer",
+                "doses": 3970000
+            },
+            {
+                "country": "Belgium",
+                "vaccine": "BNTPfizer",
+                "doses": 5130000
+            },
+            {
+                "country": "Bulgaria",
+                "vaccine": "BNTPfizer",
+                "doses": 3140000
+            },
+            {
+                "country": "Croatia",
+                "vaccine": "BNTPfizer",
+                "doses": 1790000
+            },
+            {
+                "country": "Cyprus",
+                "vaccine": "BNTPfizer",
+                "doses": 390000
+            },
+            {
+                "country": "Czechia",
+                "vaccine": "BNTPfizer",
+                "doses": 4770000
+            },
+            {
+                "country": "Denmark",
+                "vaccine": "BNTPfizer",
+                "doses": 2600000
+            },
+            {
+                "country": "Estonia",
+                "vaccine": "BNTPfizer",
+                "doses": 590000
+            },
+            {
+                "country": "Finland",
+                "vaccine": "BNTPfizer",
+                "doses": 2470000
+            },
+            {
+                "country": "France",
+                "vaccine": "BNTPfizer",
+                "doses": 30010000
+            },
+            {
+                "country": "Germany",
+                "vaccine": "BNTPfizer",
+                "doses": 37180000
+            },
+            {
+                "country": "Greece",
+                "vaccine": "BNTPfizer",
+                "doses": 4790000
+            },
+            {
+                "country": "Hungary",
+                "vaccine": "BNTPfizer",
+                "doses": 4380000
+            },
+            {
+                "country": "Ireland",
+                "vaccine": "BNTPfizer",
+                "doses": 2190000
+            },
+            {
+                "country": "Italy",
+                "vaccine": "BNTPfizer",
+                "doses": 27040000
+            },
+            {
+                "country": "Latvia",
+                "vaccine": "BNTPfizer",
+                "doses": 860000
+            },
+            {
+                "country": "Lithuania",
+                "vaccine": "BNTPfizer",
+                "doses": 1250000
+            },
+            {
+                "country": "Luxembourg",
+                "vaccine": "BNTPfizer",
+                "doses": 270000
+            },
+            {
+                "country": "Malta",
+                "vaccine": "BNTPfizer",
+                "doses": 220000
+            },
+            {
+                "country": "Netherlands",
+                "vaccine": "BNTPfizer",
+                "doses": 7740000
+            },
+            {
+                "country": "Poland",
+                "vaccine": "BNTPfizer",
+                "doses": 17010000
+            },
+            {
+                "country": "Portugal",
+                "vaccine": "BNTPfizer",
+                "doses": 4570000
+            },
+            {
+                "country": "Romania",
+                "vaccine": "BNTPfizer",
+                "doses": 8700000
+            },
+            {
+                "country": "Slovakia",
+                "vaccine": "BNTPfizer",
+                "doses": 2440000
+            },
+            {
+                "country": "Slovenia",
+                "vaccine": "BNTPfizer",
+                "doses": 900000
+            },
+            {
+                "country": "Spain",
+                "vaccine": "BNTPfizer",
+                "doses": 21010000
+            },
+            {
+                "country": "Sweden",
+                "vaccine": "BNTPfizer",
+                "doses": 4580000
+            }
+        ]
+    },
+    {
+        "url": "https://theprint.in/health/govt-working-to-help-russia-run-trials-manufacture-sputnik-v-covid-vaccine-in-india/498527/",
+        "headline": "Govt working to help Russia run trials, manufacture Sputnik V Covid vaccine in India",
+        "publication": "The Print",
+        "timestamp": 1599537600,
+        "info": [
+            {
+                "country": "India",
+                "vaccine": "Sputnik",
+                "interest": 50,
+                "description": "Govt is \"facilitating\" Sputnik V production in India"
+            }
+        ]
+    },
+    {
+        "url": "https://www.scmp.com/news/china/diplomacy/article/3098610/china-promises-its-mekong-neighbours-priority-access",
+        "headline": "China promises its Mekong neighbours priority access to a coronavirus vaccine developed in China",
+        "publication": "South China Morning Post",
+        "timestamp": 1598241600,
+        "info": [
+            {
+                "country": "Cambodia",
+                "vaccine": "CNBG",
+                "interest": 20,
+                "description": "(or other Chinese vaccine): Guaranteed priority access by China"
+            },
+            {
+                "country": "Laos",
+                "vaccine": "CNBG",
+                "interest": 20,
+                "description": "(or other Chinese vaccine): Guaranteed priority access by China"
+            },
+            {
+                "country": "Vietnam",
+                "vaccine": "CNBG",
+                "interest": 20,
+                "description": "(or other Chinese vaccine): Guaranteed priority access by China"
+            },
+            {
+                "country": "Thailand",
+                "vaccine": "CNBG",
+                "interest": 20,
+                "description": "(or other Chinese vaccine): Guaranteed priority access by China"
+            },
+            {
+                "country": "Myanmar",
+                "vaccine": "CNBG",
+                "interest": 20,
+                "description": "(or other Chinese vaccine): Guaranteed priority access by China"
+            }
+        ]
+    },
+    {
+        "url": "https://www.pattayamail.com/health/thailand-to-begin-human-trials-vaccine-this-year-314669",
+        "headline": "Thailand to begin human trials vaccine this year",
+        "publication": "Pattaya Mail",
+        "timestamp": 1599969600,
+        "info": [
+            {
+                "country": "Thailand",
+                "vaccine": "Thai vaccine",
+                "interest": 80,
+                "description": "gov't supported domestic vaccine program"
+            }
+        ]
     }
 ]
