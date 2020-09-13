@@ -1293,5 +1293,19 @@
                 "doses": 40000000
             }
         ]
+    },
+    {
+        "url": "https://www.ivi.int/genexine-consortiums-covid-19-vaccine-acquires-approval-for-clinical-trails-in-korea/",
+        "headline": "Genexine consortium\u2019s Covid-19 vaccine acquires approval for clinical trails in Korea",
+        "publication": "International Vaccine Institute",
+        "timestamp": 1591848000,
+        "info": [
+            {
+                "country": "South Korea",
+                "vaccine": "Genexine",
+                "interest": 30,
+                "description": "Phase 1/2 trials"
+            }
+        ]
     }
 ]
