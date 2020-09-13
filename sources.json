@@ -1591,5 +1591,33 @@
                 "description": "to purchase unknown quantity from EU via Sweden"
             }
         ]
+    },
+    {
+        "url": "https://www.telesurenglish.net/news/Ecuador-to-Take-Part-in-Clinical-Trials-for-COVID-19-Vaccine-20200730-0010.html",
+        "headline": "Ecuador to Take Part in Clinical Trials for COVID-19 Vaccine",
+        "publication": "TeleSur",
+        "timestamp": 1596081600,
+        "info": [
+            {
+                "country": "Ecuador",
+                "vaccine": "OxfordAZ",
+                "interest": 40,
+                "description": "Plans to participate in Phase 3"
+            }
+        ]
+    },
+    {
+        "url": "http://en.granma.cu/cuba/2020-09-03/soberana-in-the-first-phase-of-clinical-trials",
+        "headline": "Soberana in the first phase of clinical trials",
+        "publication": "CPC",
+        "timestamp": 1599105600,
+        "info": [
+            {
+                "country": "Cuba",
+                "vaccine": "Soberana",
+                "interest": 100,
+                "description": "Govt supported \"sovereign\" vaccine, in phase 1"
+            }
+        ]
     }
 ]

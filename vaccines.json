@@ -196,5 +196,19 @@
             "\ud83c\uddf9\ud83c\udded"
         ],
         "alliance": "Other"
+    },
+    {
+        "alias": "Soberana",
+        "name": "Soberana",
+        "officialName": "Soberana 01",
+        "originLocation": [
+            82.3666,
+            23.1136
+        ],
+        "locationDesc": "Finlay Institute",
+        "flags": [
+            "\ud83c\udde8\ud83c\uddfa"
+        ],
+        "alliance": "Other"
     }
 ]
