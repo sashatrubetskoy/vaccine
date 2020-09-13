@@ -52,7 +52,7 @@ var isoCountries = {
     'CD' : 'Dem. Rep. Congo',
     'CK' : 'Cook Islands',
     'CR' : 'Costa Rica',
-    'CI' : 'Côte d\'Ivoire',
+    'CI' : 'Cote d\'Ivoire',
     'HR' : 'Croatia',
     'CU' : 'Cuba',
     'CY' : 'Cyprus',
