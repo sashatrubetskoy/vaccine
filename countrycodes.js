@@ -52,7 +52,7 @@ var isoCountries = {
     'CD' : 'Dem. Rep. Congo',
     'CK' : 'Cook Islands',
     'CR' : 'Costa Rica',
-    'CI' : 'Cote d\'Ivoire',
+    'CI' : 'Côte d\'Ivoire',
     'HR' : 'Croatia',
     'CU' : 'Cuba',
     'CY' : 'Cyprus',
@@ -254,7 +254,7 @@ function codeToCountry(countryCode) {
     }
 }
 
-function countryToCode(countryCode) {
+function countryToCode(countryName) {
     const countryIsos = invert(isoCountries);
     if (countryIsos.hasOwnProperty(countryName)) {
         return countryIsos[countryName];
