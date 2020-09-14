@@ -1657,6 +1657,7 @@
                 "country": "Mexico",
                 "vaccine": "Sputnik",
                 "interest": 50,
+                "doses": 0,
                 "description": "Phase 3 trials confirmed, 32M order rumors denied"
             }
         ]
