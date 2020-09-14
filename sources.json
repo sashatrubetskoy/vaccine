@@ -1632,5 +1632,19 @@
                 "doses": 50000000
             }
         ]
+    },
+    {
+        "url": "https://tass.com/world/1188387",
+        "headline": "Serbian leader Vucic says ready to be first to take Russian coronavirus vaccine",
+        "publication": "TASS",
+        "timestamp": 1597118400,
+        "info": [
+            {
+                "country": "Serbia",
+                "vaccine": "Sputnik",
+                "interest": 60,
+                "description": "President Vucic says he will inject self with Sputnik V"
+            }
+        ]
     }
 ]
