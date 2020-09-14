@@ -1660,5 +1660,18 @@
                 "description": "Phase 3 trials confirmed, 32M order rumors denied"
             }
         ]
+    },
+    {
+        "url": "https://www.fiercepharma.com/manufacturing/uk-signs-1-6b-supply-development-agreement-for-valneva-s-covid-19-vaccine-hopeful",
+        "headline": "Valneva signs $1.6B supply, development agreement with UK for coronavirus vaccine hopeful",
+        "publication": "Fierce Pharma",
+        "timestamp": 1600092000,
+        "info": [
+            {
+                "country": "United Kingdom",
+                "vaccine": "Valneva",
+                "doses": 60000000
+            }
+        ]
     }
 ]

@@ -210,5 +210,19 @@
             "\ud83c\udde8\ud83c\uddfa"
         ],
         "alliance": "Other"
+    },
+    {
+        "alias": "Valneva",
+        "name": "Valneva",
+        "officialName": "VLA2001",
+        "originLocation": [
+            -1.6514,
+            47.2103
+        ],
+        "locationDesc": "Valneva HQ",
+        "flags": [
+            "\ud83c\uddeb\ud83c\uddf7"
+        ],
+        "alliance": "US/Europe"
     }
 ]
