@@ -497,19 +497,6 @@
         ]
     },
     {
-        "url": "https://www.nytimes.com/reuters/2020/09/09/world/americas/09reuters-health-coronavirus-russia-mexico.html",
-        "headline": "Russia's RDIF to Sell 32 Mln COVID-19 Vaccine Doses to Mexican Firm",
-        "publication": "New York Times",
-        "timestamp": 1599624000,
-        "info": [
-            {
-                "country": "Mexico",
-                "vaccine": "Sputnik",
-                "doses": 32000000
-            }
-        ]
-    },
-    {
         "url": "https://www.reuters.com/article/us-health-coronavirus-kazakhstan-russia/kazakhstan-secures-supplies-of-russian-covid-19-vaccine-candidate-idUSKBN25M0JW",
         "headline": "Kazakhstan secures supplies of Russian COVID-19 vaccine candidate",
         "publication": "Reuters",
@@ -1657,7 +1644,6 @@
                 "country": "Mexico",
                 "vaccine": "Sputnik",
                 "interest": 50,
-                "doses": 0,
                 "description": "Phase 3 trials confirmed, 32M order rumors denied"
             }
         ]
