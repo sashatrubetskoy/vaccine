@@ -1646,5 +1646,19 @@
                 "description": "President Vucic says he will inject self with Sputnik V"
             }
         ]
+    },
+    {
+        "url": "https://www.theyucatantimes.com/2020/09/ministry-of-health-denies-arrival-of-sputnik-v-vaccine-in-mexico/",
+        "headline": "Ministry of Health denies arrival of Sputnik V vaccine in Mexico",
+        "publication": "The Yucatan Times",
+        "timestamp": 1600056000,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "Sputnik",
+                "interest": 50,
+                "description": "Phase 3 trials confirmed, 32M order rumors denied"
+            }
+        ]
     }
 ]
