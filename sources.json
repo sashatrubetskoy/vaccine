@@ -1619,5 +1619,18 @@
                 "description": "Govt supported \"sovereign\" vaccine, in phase 1"
             }
         ]
+    },
+    {
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2020/08/16/vietnam-to-buy-up-to-150-million-doses-of-russia039s-covid-19-vaccine",
+        "headline": "Vietnam to buy up to 150 million doses of Russia's Covid-19 vaccine",
+        "publication": "The Star",
+        "timestamp": 1597550400,
+        "info": [
+            {
+                "country": "Vietnam",
+                "vaccine": "Sputnik",
+                "doses": 50000000
+            }
+        ]
     }
 ]
