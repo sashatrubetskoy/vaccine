@@ -1660,5 +1660,19 @@
                 "doses": 60000000
             }
         ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-emirates-vaccine/uae-announces-emergency-approval-for-use-of-covid-19-vaccine-idUSKBN2652OM",
+        "headline": "UAE announces emergency approval for use of COVID-19 vaccine",
+        "publication": "Reuters",
+        "timestamp": 1600099200,
+        "info": [
+            {
+                "country": "United Arab Emirates",
+                "vaccine": "CNBG",
+                "interest": 70,
+                "description": "Approved emergency use"
+            }
+        ]
     }
 ]
