@@ -1674,5 +1674,18 @@
                 "description": "Approved emergency use"
             }
         ]
+    },
+    {
+        "url": "https://www.aljazeera.com/news/2020/09/melbourne-track-easing-coronavirus-lockdown-live-news-200916004405503.html",
+        "headline": "Russia to sell 100 million COVID vaccine doses to India: Live",
+        "publication": "Al Jazeera",
+        "timestamp": 1600279200,
+        "info": [
+            {
+                "country": "India",
+                "vaccine": "Sputnik",
+                "doses": 100000000
+            }
+        ]
     }
 ]
