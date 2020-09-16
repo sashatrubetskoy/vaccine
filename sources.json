@@ -1687,5 +1687,19 @@
                 "doses": 100000000
             }
         ]
+    },
+    {
+        "url": "https://news.yahoo.com/turkey-begins-phase-iii-trials-105020091.html",
+        "headline": "Turkey begins Phase III trials of Chinese coronavirus vaccine: minister",
+        "publication": "Reuters",
+        "timestamp": 1600279200,
+        "info": [
+            {
+                "country": "Turkey",
+                "vaccine": "Sinovac",
+                "interest": 60,
+                "description": "Phase III trials have begun"
+            }
+        ]
     }
 ]
