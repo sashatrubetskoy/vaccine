@@ -1701,5 +1701,148 @@
                 "description": "Phase III trials have begun"
             }
         ]
+    },
+    {
+        "url": "https://www.sanofi.com/en/media-room/press-releases/2020/2020-09-18-12-52-46",
+        "headline": "Sanofi and GSK will provide up to 300 million doses of COVID-19 vaccine to the European Union",
+        "publication": "Sanofi",
+        "timestamp": 1600401600,
+        "info": [
+            {
+                "country": "Austria",
+                "vaccine": "GSKSanofi",
+                "doses": 5950000
+            },
+            {
+                "country": "Belgium",
+                "vaccine": "GSKSanofi",
+                "doses": 7700000
+            },
+            {
+                "country": "Bulgaria",
+                "vaccine": "GSKSanofi",
+                "doses": 4700000
+            },
+            {
+                "country": "Croatia",
+                "vaccine": "GSKSanofi",
+                "doses": 2690000
+            },
+            {
+                "country": "Cyprus",
+                "vaccine": "GSKSanofi",
+                "doses": 590000
+            },
+            {
+                "country": "Czechia",
+                "vaccine": "GSKSanofi",
+                "doses": 7160000
+            },
+            {
+                "country": "Denmark",
+                "vaccine": "GSKSanofi",
+                "doses": 3900000
+            },
+            {
+                "country": "Estonia",
+                "vaccine": "GSKSanofi",
+                "doses": 890000
+            },
+            {
+                "country": "Finland",
+                "vaccine": "GSKSanofi",
+                "doses": 3710000
+            },
+            {
+                "country": "France",
+                "vaccine": "GSKSanofi",
+                "doses": 45020000
+            },
+            {
+                "country": "Germany",
+                "vaccine": "GSKSanofi",
+                "doses": 55770000
+            },
+            {
+                "country": "Greece",
+                "vaccine": "GSKSanofi",
+                "doses": 7190000
+            },
+            {
+                "country": "Hungary",
+                "vaccine": "GSKSanofi",
+                "doses": 6560000
+            },
+            {
+                "country": "Ireland",
+                "vaccine": "GSKSanofi",
+                "doses": 3290000
+            },
+            {
+                "country": "Italy",
+                "vaccine": "GSKSanofi",
+                "doses": 40560000
+            },
+            {
+                "country": "Latvia",
+                "vaccine": "GSKSanofi",
+                "doses": 1290000
+            },
+            {
+                "country": "Lithuania",
+                "vaccine": "GSKSanofi",
+                "doses": 1880000
+            },
+            {
+                "country": "Luxembourg",
+                "vaccine": "GSKSanofi",
+                "doses": 410000
+            },
+            {
+                "country": "Malta",
+                "vaccine": "GSKSanofi",
+                "doses": 330000
+            },
+            {
+                "country": "Netherlands",
+                "vaccine": "GSKSanofi",
+                "doses": 11610000
+            },
+            {
+                "country": "Poland",
+                "vaccine": "GSKSanofi",
+                "doses": 25510000
+            },
+            {
+                "country": "Portugal",
+                "vaccine": "GSKSanofi",
+                "doses": 6850000
+            },
+            {
+                "country": "Romania",
+                "vaccine": "GSKSanofi",
+                "doses": 13040000
+            },
+            {
+                "country": "Slovakia",
+                "vaccine": "GSKSanofi",
+                "doses": 3660000
+            },
+            {
+                "country": "Slovenia",
+                "vaccine": "GSKSanofi",
+                "doses": 1340000
+            },
+            {
+                "country": "Spain",
+                "vaccine": "GSKSanofi",
+                "doses": 31510000
+            },
+            {
+                "country": "Sweden",
+                "vaccine": "GSKSanofi",
+                "doses": 6870000
+            }
+        ]
     }
 ]
