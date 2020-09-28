@@ -1254,23 +1254,40 @@
         "headline": "Chile To Participate In Phase III Covid-19 Vaccine Trial",
         "publication": "Chile Today",
         "timestamp": 1598414400,
-        "info": {
-            "country": "Chile",
-            "vaccine": "Sinovac",
-            "interest": 30,
-            "description": "Possible phase III trial"
-        }
+        "info": [
+            {
+                "country": "Chile",
+                "vaccine": "Sinovac",
+                "interest": 30,
+                "description": "Possible phase III trial"
+            }
+        ]
     },
     {
         "url": "https://www.reuters.com/article/health-coronavirus-russia-uzbekistan/russia-agrees-to-supply-35-mln-doses-of-covid-19-vaccine-to-uzbekistan-rdif-idUSR4N2GD04V",
         "headline": "Russia agrees to supply 35 million doses of COVID-19 vaccine to Uzbekistan",
         "publication": "Reuters",
         "timestamp": 1601006400,
-        "info": {
-            "country": "Uzbekistan",
-            "vaccine": "Sputnik",
-            "doses": 35000000,
-            "description": "Up to 35,000,000 doses"
-        }
+        "info": [
+            {
+                "country": "Uzbekistan",
+                "vaccine": "Sputnik",
+                "doses": 35000000,
+                "description": "Up to 35,000,000 doses"
+            }
+        ]
+    },
+    {
+        "url": "https://asia.nikkei.com/Business/Pharmaceuticals/AstraZeneca-to-supply-Japan-with-120m-COVID-19-vaccine-doses",
+        "headline": "AstraZeneca to supply Japan with 120m COVID-19 vaccine doses",
+        "publication": "Nikkei Asian Review",
+        "timestamp": 1596870000,
+        "info": [
+            {
+                "country": "Japan",
+                "vaccine": "OxfordAZ",
+                "doses": 120000000
+            }
+        ]
     }
 ]
