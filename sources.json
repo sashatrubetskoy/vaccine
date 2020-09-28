@@ -34,141 +34,6 @@
                 "country": "United States of America",
                 "vaccine": "Novavax",
                 "doses": 100000000
-            },
-            {
-                "country": "Austria",
-                "vaccine": "OxfordAZ",
-                "doses": 7880000
-            },
-            {
-                "country": "Belgium",
-                "vaccine": "OxfordAZ",
-                "doses": 10200000
-            },
-            {
-                "country": "Bulgaria",
-                "vaccine": "OxfordAZ",
-                "doses": 6360000
-            },
-            {
-                "country": "Croatia",
-                "vaccine": "OxfordAZ",
-                "doses": 3720000
-            },
-            {
-                "country": "Cyprus",
-                "vaccine": "OxfordAZ",
-                "doses": 760000
-            },
-            {
-                "country": "Czechia",
-                "vaccine": "OxfordAZ",
-                "doses": 9480000
-            },
-            {
-                "country": "Denmark",
-                "vaccine": "OxfordAZ",
-                "doses": 5160000
-            },
-            {
-                "country": "Estonia",
-                "vaccine": "OxfordAZ",
-                "doses": 1200000
-            },
-            {
-                "country": "Finland",
-                "vaccine": "OxfordAZ",
-                "doses": 4920000
-            },
-            {
-                "country": "France",
-                "vaccine": "OxfordAZ",
-                "doses": 60120000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "OxfordAZ",
-                "doses": 74040000
-            },
-            {
-                "country": "Greece",
-                "vaccine": "OxfordAZ",
-                "doses": 9680000
-            },
-            {
-                "country": "Hungary",
-                "vaccine": "OxfordAZ",
-                "doses": 8800000
-            },
-            {
-                "country": "Ireland",
-                "vaccine": "OxfordAZ",
-                "doses": 4400000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "OxfordAZ",
-                "doses": 54360000
-            },
-            {
-                "country": "Latvia",
-                "vaccine": "OxfordAZ",
-                "doses": 1760000
-            },
-            {
-                "country": "Lithuania",
-                "vaccine": "OxfordAZ",
-                "doses": 2560000
-            },
-            {
-                "country": "Luxembourg",
-                "vaccine": "OxfordAZ",
-                "doses": 520000
-            },
-            {
-                "country": "Malta",
-                "vaccine": "OxfordAZ",
-                "doses": 400000
-            },
-            {
-                "country": "Netherlands",
-                "vaccine": "OxfordAZ",
-                "doses": 15320000
-            },
-            {
-                "country": "Poland",
-                "vaccine": "OxfordAZ",
-                "doses": 34080000
-            },
-            {
-                "country": "Portugal",
-                "vaccine": "OxfordAZ",
-                "doses": 9240000
-            },
-            {
-                "country": "Romania",
-                "vaccine": "OxfordAZ",
-                "doses": 17640000
-            },
-            {
-                "country": "Slovakia",
-                "vaccine": "OxfordAZ",
-                "doses": 4880000
-            },
-            {
-                "country": "Slovenia",
-                "vaccine": "OxfordAZ",
-                "doses": 1840000
-            },
-            {
-                "country": "Spain",
-                "vaccine": "OxfordAZ",
-                "doses": 41760000
-            },
-            {
-                "country": "Sweden",
-                "vaccine": "OxfordAZ",
-                "doses": 8960000
             }
         ]
     },
@@ -636,139 +501,9 @@
         "timestamp": 1599624000,
         "info": [
             {
-                "country": "Austria",
+                "country": "European Union",
                 "vaccine": "BNTPfizer",
-                "doses": 7880000
-            },
-            {
-                "country": "Belgium",
-                "vaccine": "BNTPfizer",
-                "doses": 10200000
-            },
-            {
-                "country": "Bulgaria",
-                "vaccine": "BNTPfizer",
-                "doses": 6360000
-            },
-            {
-                "country": "Croatia",
-                "vaccine": "BNTPfizer",
-                "doses": 3720000
-            },
-            {
-                "country": "Cyprus",
-                "vaccine": "BNTPfizer",
-                "doses": 760000
-            },
-            {
-                "country": "Czechia",
-                "vaccine": "BNTPfizer",
-                "doses": 9480000
-            },
-            {
-                "country": "Denmark",
-                "vaccine": "BNTPfizer",
-                "doses": 5160000
-            },
-            {
-                "country": "Estonia",
-                "vaccine": "BNTPfizer",
-                "doses": 1200000
-            },
-            {
-                "country": "Finland",
-                "vaccine": "BNTPfizer",
-                "doses": 4920000
-            },
-            {
-                "country": "France",
-                "vaccine": "BNTPfizer",
-                "doses": 60120000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "BNTPfizer",
-                "doses": 74040000
-            },
-            {
-                "country": "Greece",
-                "vaccine": "BNTPfizer",
-                "doses": 9680000
-            },
-            {
-                "country": "Hungary",
-                "vaccine": "BNTPfizer",
-                "doses": 8800000
-            },
-            {
-                "country": "Ireland",
-                "vaccine": "BNTPfizer",
-                "doses": 4400000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "BNTPfizer",
-                "doses": 54360000
-            },
-            {
-                "country": "Latvia",
-                "vaccine": "BNTPfizer",
-                "doses": 1760000
-            },
-            {
-                "country": "Lithuania",
-                "vaccine": "BNTPfizer",
-                "doses": 2560000
-            },
-            {
-                "country": "Luxembourg",
-                "vaccine": "BNTPfizer",
-                "doses": 520000
-            },
-            {
-                "country": "Malta",
-                "vaccine": "BNTPfizer",
-                "doses": 400000
-            },
-            {
-                "country": "Netherlands",
-                "vaccine": "BNTPfizer",
-                "doses": 15320000
-            },
-            {
-                "country": "Poland",
-                "vaccine": "BNTPfizer",
-                "doses": 34080000
-            },
-            {
-                "country": "Portugal",
-                "vaccine": "BNTPfizer",
-                "doses": 9240000
-            },
-            {
-                "country": "Romania",
-                "vaccine": "BNTPfizer",
-                "doses": 17640000
-            },
-            {
-                "country": "Slovakia",
-                "vaccine": "BNTPfizer",
-                "doses": 4880000
-            },
-            {
-                "country": "Slovenia",
-                "vaccine": "BNTPfizer",
-                "doses": 1840000
-            },
-            {
-                "country": "Spain",
-                "vaccine": "BNTPfizer",
-                "doses": 41760000
-            },
-            {
-                "country": "Sweden",
-                "vaccine": "BNTPfizer",
-                "doses": 8960000
+                "doses": 200000000
             }
         ]
     },
@@ -818,139 +553,9 @@
         "timestamp": 1598241600,
         "info": [
             {
-                "country": "Austria",
+                "country": "European Union",
                 "vaccine": "Moderna",
-                "doses": 1576000
-            },
-            {
-                "country": "Belgium",
-                "vaccine": "Moderna",
-                "doses": 2040000
-            },
-            {
-                "country": "Bulgaria",
-                "vaccine": "Moderna",
-                "doses": 1272000
-            },
-            {
-                "country": "Croatia",
-                "vaccine": "Moderna",
-                "doses": 744000
-            },
-            {
-                "country": "Cyprus",
-                "vaccine": "Moderna",
-                "doses": 152000
-            },
-            {
-                "country": "Czechia",
-                "vaccine": "Moderna",
-                "doses": 1896000
-            },
-            {
-                "country": "Denmark",
-                "vaccine": "Moderna",
-                "doses": 1032000
-            },
-            {
-                "country": "Estonia",
-                "vaccine": "Moderna",
-                "doses": 240000
-            },
-            {
-                "country": "Finland",
-                "vaccine": "Moderna",
-                "doses": 984000
-            },
-            {
-                "country": "France",
-                "vaccine": "Moderna",
-                "doses": 12024000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "Moderna",
-                "doses": 14808000
-            },
-            {
-                "country": "Greece",
-                "vaccine": "Moderna",
-                "doses": 1936000
-            },
-            {
-                "country": "Hungary",
-                "vaccine": "Moderna",
-                "doses": 1760000
-            },
-            {
-                "country": "Ireland",
-                "vaccine": "Moderna",
-                "doses": 880000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "Moderna",
-                "doses": 10872000
-            },
-            {
-                "country": "Latvia",
-                "vaccine": "Moderna",
-                "doses": 352000
-            },
-            {
-                "country": "Lithuania",
-                "vaccine": "Moderna",
-                "doses": 512000
-            },
-            {
-                "country": "Luxembourg",
-                "vaccine": "Moderna",
-                "doses": 104000
-            },
-            {
-                "country": "Malta",
-                "vaccine": "Moderna",
-                "doses": 80000
-            },
-            {
-                "country": "Netherlands",
-                "vaccine": "Moderna",
-                "doses": 3064000
-            },
-            {
-                "country": "Poland",
-                "vaccine": "Moderna",
-                "doses": 6816000
-            },
-            {
-                "country": "Portugal",
-                "vaccine": "Moderna",
-                "doses": 1848000
-            },
-            {
-                "country": "Romania",
-                "vaccine": "Moderna",
-                "doses": 3528000
-            },
-            {
-                "country": "Slovakia",
-                "vaccine": "Moderna",
-                "doses": 976000
-            },
-            {
-                "country": "Slovenia",
-                "vaccine": "Moderna",
-                "doses": 368000
-            },
-            {
-                "country": "Spain",
-                "vaccine": "Moderna",
-                "doses": 8352000
-            },
-            {
-                "country": "Sweden",
-                "vaccine": "Moderna",
-                "doses": 1792000
+                "doses": 80000000
             }
         ]
     },
@@ -1302,139 +907,10 @@
         "timestamp": 1599624000,
         "info": [
             {
-                "country": "Austria",
+                "country": "European Union",
                 "vaccine": "BNTPfizer",
-                "doses": 3970000
-            },
-            {
-                "country": "Belgium",
-                "vaccine": "BNTPfizer",
-                "doses": 5130000
-            },
-            {
-                "country": "Bulgaria",
-                "vaccine": "BNTPfizer",
-                "doses": 3140000
-            },
-            {
-                "country": "Croatia",
-                "vaccine": "BNTPfizer",
-                "doses": 1790000
-            },
-            {
-                "country": "Cyprus",
-                "vaccine": "BNTPfizer",
-                "doses": 390000
-            },
-            {
-                "country": "Czechia",
-                "vaccine": "BNTPfizer",
-                "doses": 4770000
-            },
-            {
-                "country": "Denmark",
-                "vaccine": "BNTPfizer",
-                "doses": 2600000
-            },
-            {
-                "country": "Estonia",
-                "vaccine": "BNTPfizer",
-                "doses": 590000
-            },
-            {
-                "country": "Finland",
-                "vaccine": "BNTPfizer",
-                "doses": 2470000
-            },
-            {
-                "country": "France",
-                "vaccine": "BNTPfizer",
-                "doses": 30010000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "BNTPfizer",
-                "doses": 37180000
-            },
-            {
-                "country": "Greece",
-                "vaccine": "BNTPfizer",
-                "doses": 4790000
-            },
-            {
-                "country": "Hungary",
-                "vaccine": "BNTPfizer",
-                "doses": 4380000
-            },
-            {
-                "country": "Ireland",
-                "vaccine": "BNTPfizer",
-                "doses": 2190000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "BNTPfizer",
-                "doses": 27040000
-            },
-            {
-                "country": "Latvia",
-                "vaccine": "BNTPfizer",
-                "doses": 860000
-            },
-            {
-                "country": "Lithuania",
-                "vaccine": "BNTPfizer",
-                "doses": 1250000
-            },
-            {
-                "country": "Luxembourg",
-                "vaccine": "BNTPfizer",
-                "doses": 270000
-            },
-            {
-                "country": "Malta",
-                "vaccine": "BNTPfizer",
-                "doses": 220000
-            },
-            {
-                "country": "Netherlands",
-                "vaccine": "BNTPfizer",
-                "doses": 7740000
-            },
-            {
-                "country": "Poland",
-                "vaccine": "BNTPfizer",
-                "doses": 17010000
-            },
-            {
-                "country": "Portugal",
-                "vaccine": "BNTPfizer",
-                "doses": 4570000
-            },
-            {
-                "country": "Romania",
-                "vaccine": "BNTPfizer",
-                "doses": 8700000
-            },
-            {
-                "country": "Slovakia",
-                "vaccine": "BNTPfizer",
-                "doses": 2440000
-            },
-            {
-                "country": "Slovenia",
-                "vaccine": "BNTPfizer",
-                "doses": 900000
-            },
-            {
-                "country": "Spain",
-                "vaccine": "BNTPfizer",
-                "doses": 21010000
-            },
-            {
-                "country": "Sweden",
-                "vaccine": "BNTPfizer",
-                "doses": 4580000
+                "doses": 200000000,
+                "description": "initial 200M, up to 300M doses"
             }
         ]
     },
@@ -1709,139 +1185,52 @@
         "timestamp": 1600401600,
         "info": [
             {
-                "country": "Austria",
+                "country": "European Union",
                 "vaccine": "GSKSanofi",
-                "doses": 5950000
-            },
+                "doses": 300000000,
+                "description": "up to 300M doses"
+            }
+        ]
+    },
+    {
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1481",
+        "headline": "European Commission concludes exploratory talks with J&J's Janssen",
+        "publication": "European Commission",
+        "timestamp": 1597291200,
+        "info": [
             {
-                "country": "Belgium",
-                "vaccine": "GSKSanofi",
-                "doses": 7700000
-            },
+                "country": "European Union",
+                "vaccine": "Janssen",
+                "doses": 200000000,
+                "description": "200M doses if approved, option up to 400M"
+            }
+        ]
+    },
+    {
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_20_1524",
+        "headline": "European Commission signs first contract with AstraZeneca\"",
+        "publication": "European Commission",
+        "timestamp": 1598500800,
+        "info": [
             {
-                "country": "Bulgaria",
-                "vaccine": "GSKSanofi",
-                "doses": 4700000
-            },
+                "country": "European Union",
+                "vaccine": "OxfordAZ",
+                "doses": 300000000,
+                "description": "Purchase 300M with option for added 100M"
+            }
+        ]
+    },
+    {
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/IP_20_1494",
+        "headline": "European Commission conclude exploratory talks with CureVac",
+        "publication": "European Commission",
+        "timestamp": 1597896000,
+        "info": [
             {
-                "country": "Croatia",
-                "vaccine": "GSKSanofi",
-                "doses": 2690000
-            },
-            {
-                "country": "Cyprus",
-                "vaccine": "GSKSanofi",
-                "doses": 590000
-            },
-            {
-                "country": "Czechia",
-                "vaccine": "GSKSanofi",
-                "doses": 7160000
-            },
-            {
-                "country": "Denmark",
-                "vaccine": "GSKSanofi",
-                "doses": 3900000
-            },
-            {
-                "country": "Estonia",
-                "vaccine": "GSKSanofi",
-                "doses": 890000
-            },
-            {
-                "country": "Finland",
-                "vaccine": "GSKSanofi",
-                "doses": 3710000
-            },
-            {
-                "country": "France",
-                "vaccine": "GSKSanofi",
-                "doses": 45020000
-            },
-            {
-                "country": "Germany",
-                "vaccine": "GSKSanofi",
-                "doses": 55770000
-            },
-            {
-                "country": "Greece",
-                "vaccine": "GSKSanofi",
-                "doses": 7190000
-            },
-            {
-                "country": "Hungary",
-                "vaccine": "GSKSanofi",
-                "doses": 6560000
-            },
-            {
-                "country": "Ireland",
-                "vaccine": "GSKSanofi",
-                "doses": 3290000
-            },
-            {
-                "country": "Italy",
-                "vaccine": "GSKSanofi",
-                "doses": 40560000
-            },
-            {
-                "country": "Latvia",
-                "vaccine": "GSKSanofi",
-                "doses": 1290000
-            },
-            {
-                "country": "Lithuania",
-                "vaccine": "GSKSanofi",
-                "doses": 1880000
-            },
-            {
-                "country": "Luxembourg",
-                "vaccine": "GSKSanofi",
-                "doses": 410000
-            },
-            {
-                "country": "Malta",
-                "vaccine": "GSKSanofi",
-                "doses": 330000
-            },
-            {
-                "country": "Netherlands",
-                "vaccine": "GSKSanofi",
-                "doses": 11610000
-            },
-            {
-                "country": "Poland",
-                "vaccine": "GSKSanofi",
-                "doses": 25510000
-            },
-            {
-                "country": "Portugal",
-                "vaccine": "GSKSanofi",
-                "doses": 6850000
-            },
-            {
-                "country": "Romania",
-                "vaccine": "GSKSanofi",
-                "doses": 13040000
-            },
-            {
-                "country": "Slovakia",
-                "vaccine": "GSKSanofi",
-                "doses": 3660000
-            },
-            {
-                "country": "Slovenia",
-                "vaccine": "GSKSanofi",
-                "doses": 1340000
-            },
-            {
-                "country": "Spain",
-                "vaccine": "GSKSanofi",
-                "doses": 31510000
-            },
-            {
-                "country": "Sweden",
-                "vaccine": "GSKSanofi",
-                "doses": 6870000
+                "country": "European Union",
+                "vaccine": "CureVac",
+                "doses": 225000000,
+                "description": "Initially purchase 225M provided proven safe"
             }
         ]
     }

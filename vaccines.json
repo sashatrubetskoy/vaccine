@@ -3,11 +3,15 @@
         "alias": "BNTPfizer",
         "name": "BioNTech/Pfizer",
         "officialName": "BNT162",
-        "originLocation": [
-            -74.0218,
-            41.059
+        "locations": [
+            {
+                "coordinates": [
+                    -74.0218,
+                    41.059
+                ],
+                "description": "Pfizer Pearl River, NY Lab"
+            }
         ],
-        "locationDesc": "Pfizer Pearl River, NY Lab",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8",
             "\ud83c\udde9\ud83c\uddea"
@@ -18,11 +22,15 @@
         "alias": "OxfordAZ",
         "name": "Oxford/AstraZeneca",
         "officialName": "AZD1222",
-        "originLocation": [
-            1.2974,
-            52.6309
+        "locations": [
+            {
+                "coordinates": [
+                    1.2974,
+                    52.6309
+                ],
+                "description": "Oxford University"
+            }
         ],
-        "locationDesc": "Oxford University",
         "flags": [
             "\ud83c\uddec\ud83c\udde7"
         ],
@@ -32,11 +40,15 @@
         "alias": "GSKSanofi",
         "name": "GSK/Sanofi",
         "officialName": "None",
-        "originLocation": [
-            2.3522,
-            48.8566
+        "locations": [
+            {
+                "coordinates": [
+                    2.3522,
+                    48.8566
+                ],
+                "description": "Sanofi HQ"
+            }
         ],
-        "locationDesc": "Sanofi HQ",
         "flags": [
             "\ud83c\uddec\ud83c\udde7",
             "\ud83c\uddeb\ud83c\uddf7"
@@ -47,11 +59,15 @@
         "alias": "Novavax",
         "name": "Novavax",
         "officialName": "NVX-CoV2373",
-        "originLocation": [
-            -77.1528,
-            39.084
+        "locations": [
+            {
+                "coordinates": [
+                    -77.1528,
+                    39.084
+                ],
+                "description": "Novavax HQ"
+            }
         ],
-        "locationDesc": "Novavax HQ",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8"
         ],
@@ -61,11 +77,15 @@
         "alias": "Sputnik",
         "name": "Sputnik V",
         "officialName": "Gam-COVID-Vac",
-        "originLocation": [
-            37.6173,
-            55.7558
+        "locations": [
+            {
+                "coordinates": [
+                    37.6173,
+                    55.7558
+                ],
+                "description": "Gamaleya Institute"
+            }
         ],
-        "locationDesc": "Gamaleya Institute",
         "flags": [
             "\ud83c\uddf7\ud83c\uddfa"
         ],
@@ -75,11 +95,15 @@
         "alias": "Moderna",
         "name": "Moderna",
         "officialName": "mRNA-1273",
-        "originLocation": [
-            -71.1097,
-            42.3736
+        "locations": [
+            {
+                "coordinates": [
+                    -71.1097,
+                    42.3736
+                ],
+                "description": "Moderna HQ"
+            }
         ],
-        "locationDesc": "Moderna HQ",
         "flags": [
             "\ud83c\uddfa\ud83c\uddf8"
         ],
@@ -89,11 +113,15 @@
         "alias": "Sinovac",
         "name": "Sinovac",
         "officialName": "CoronaVac",
-        "originLocation": [
-            114.3055,
-            30.5928
+        "locations": [
+            {
+                "coordinates": [
+                    114.3055,
+                    30.5928
+                ],
+                "description": "Wuhan Lab"
+            }
         ],
-        "locationDesc": "Wuhan Lab",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ],
@@ -103,11 +131,15 @@
         "alias": "CNBG",
         "name": "CNBG/Sinopharm",
         "officialName": "None",
-        "originLocation": [
-            116.4074,
-            39.9042
+        "locations": [
+            {
+                "coordinates": [
+                    116.4074,
+                    39.9042
+                ],
+                "description": "Sinopharm HQ"
+            }
         ],
-        "locationDesc": "Sinopharm HQ",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ],
@@ -117,11 +149,15 @@
         "alias": "Walvax",
         "name": "Walvax/PLA",
         "officialName": "None",
-        "originLocation": [
-            119,
-            39.9042
+        "locations": [
+            {
+                "coordinates": [
+                    119,
+                    39.9042
+                ],
+                "description": "CanSinoBIO HQ"
+            }
         ],
-        "locationDesc": "CanSinoBIO HQ",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ],
@@ -131,11 +167,15 @@
         "alias": "CanSino",
         "name": "CanSinoBIO",
         "officialName": "Ad5-nCoV",
-        "originLocation": [
-            102.8329,
-            24.8801
+        "locations": [
+            {
+                "coordinates": [
+                    102.8329,
+                    24.8801
+                ],
+                "description": "Walvax HQ"
+            }
         ],
-        "locationDesc": "Walvax HQ",
         "flags": [
             "\ud83c\udde8\ud83c\uddf3"
         ],
@@ -145,11 +185,15 @@
         "alias": "Janssen",
         "name": "Janssen",
         "officialName": "Ad26.COV2.S",
-        "originLocation": [
-            3.2247,
-            51.2093
+        "locations": [
+            {
+                "coordinates": [
+                    3.2247,
+                    51.2093
+                ],
+                "description": "Janssen HQ"
+            }
         ],
-        "locationDesc": "Janssen HQ",
         "flags": [
             "\ud83c\udde7\ud83c\uddea"
         ],
@@ -159,11 +203,15 @@
         "alias": "Genexine",
         "name": "Genexine",
         "officialName": "GX-19",
-        "originLocation": [
-            126.978,
-            37.5665
+        "locations": [
+            {
+                "coordinates": [
+                    126.978,
+                    37.5665
+                ],
+                "description": "Genexine HQ"
+            }
         ],
-        "locationDesc": "Genexine HQ",
         "flags": [
             "\ud83c\uddf0\ud83c\uddf7"
         ],
@@ -173,11 +221,15 @@
         "alias": "Thai vaccine",
         "name": "Thai vaccine",
         "officialName": "None",
-        "originLocation": [
-            100.5018,
-            13.7563
+        "locations": [
+            {
+                "coordinates": [
+                    100.5018,
+                    13.7563
+                ],
+                "description": "National Vaccine Institute"
+            }
         ],
-        "locationDesc": "National Vaccine Institute",
         "flags": [
             "\ud83c\uddf9\ud83c\udded"
         ],
@@ -187,11 +239,15 @@
         "alias": "Iranian vaccine",
         "name": "Iranian vaccine",
         "officialName": "None",
-        "originLocation": [
-            51.389,
-            35.6892
+        "locations": [
+            {
+                "coordinates": [
+                    51.389,
+                    35.6892
+                ],
+                "description": "Iran University of Medical Sciences"
+            }
         ],
-        "locationDesc": "Iran University of Medical Sciences",
         "flags": [
             "\ud83c\uddf9\ud83c\udded"
         ],
@@ -201,11 +257,15 @@
         "alias": "Soberana",
         "name": "Soberana",
         "officialName": "Soberana 01",
-        "originLocation": [
-            -82.3666,
-            23.1136
+        "locations": [
+            {
+                "coordinates": [
+                    -82.3666,
+                    23.1136
+                ],
+                "description": "Finlay Institute"
+            }
         ],
-        "locationDesc": "Finlay Institute",
         "flags": [
             "\ud83c\udde8\ud83c\uddfa"
         ],
@@ -215,13 +275,35 @@
         "alias": "Valneva",
         "name": "Valneva",
         "officialName": "VLA2001",
-        "originLocation": [
-            -1.6514,
-            47.2103
+        "locations": [
+            {
+                "coordinates": [
+                    -1.6514,
+                    47.2103
+                ],
+                "description": "Valneva HQ"
+            }
         ],
-        "locationDesc": "Valneva HQ",
         "flags": [
             "\ud83c\uddeb\ud83c\uddf7"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "CureVac",
+        "name": "CureVac",
+        "officialName": "CVnCoV",
+        "locations": [
+            {
+                "coordinates": [
+                    9.0576,
+                    48.5216
+                ],
+                "description": "CureVac HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde9\ud83c\uddea"
         ],
         "alliance": "US/Europe"
     }
