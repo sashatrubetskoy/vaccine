@@ -1207,5 +1207,19 @@
                 "description": "Initially purchase 225M provided proven safe"
             }
         ]
+    },
+    {
+        "url": "https://www.astrazeneca.ca/en/media/press-releases/2020/astrazeneca-and-government-of-canada-announce-agreement-to--supp.html",
+        "headline": "AstraZeneca and Government of Canada announce agreement to supply up to 20 million doses of the AZD1222 COVID-19 vaccine",
+        "publication": "AstraZeneca",
+        "timestamp": 1601006400,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "OxfordAZ",
+                "doses": 20000000,
+                "description": "Up to 20M doses in 2021 should trials succeed"
+            }
+        ]
     }
 ]
