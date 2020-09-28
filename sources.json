@@ -82,19 +82,6 @@
         ]
     },
     {
-        "url": "https://www.euroweeklynews.com/2020/09/07/spain-promises-3-million-covid-19-vaccine-doses-for-december-ready-for-yours/",
-        "headline": "Spain Promises 3 Million COVID-19 Vaccine Doses for December- Ready For Yours?",
-        "publication": "Euro Weekly News",
-        "timestamp": 1599528780,
-        "info": [
-            {
-                "country": "Spain",
-                "vaccine": "OxfordAZ",
-                "doses": 30000000
-            }
-        ]
-    },
-    {
         "url": "https://tass.com/russia/1198309",
         "headline": "First batch of Sputnik V vaccine for civilian circulation produced in Russia",
         "publication": "TASS",
