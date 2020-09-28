@@ -1289,5 +1289,47 @@
                 "doses": 120000000
             }
         ]
+    },
+    {
+        "url": "https://www.egypttoday.com/Article/1/88839/Egypt-signs-deal-to-receive-Oxford-University-s-COVID-19",
+        "headline": "Egypt signs deal to receive Oxford University's COVID-19 vaccine",
+        "publication": "Egypt Today",
+        "timestamp": 1592798400,
+        "info": [
+            {
+                "country": "Egypt",
+                "vaccine": "OxfordAZ",
+                "interest": 90,
+                "description": "Signed deal, quantity not disclosed"
+            }
+        ]
+    },
+    {
+        "url": "https://en.yna.co.kr/view/AEN20200813009500320?section=search",
+        "headline": "SK Bioscience to manufacture Novavax's coronavirus vaccine candidate",
+        "publication": "Yonhap",
+        "timestamp": 1597291200,
+        "info": [
+            {
+                "country": "South Korea",
+                "vaccine": "Novavax",
+                "interest": 100,
+                "description": "Will set up production in Korea for global and Korean distribution"
+            }
+        ]
+    },
+    {
+        "url": "https://www.reuters.com/article/us-health-coronavirus-southkorea-astraze/south-koreas-sk-bioscience-in-deal-with-astrazeneca-on-vaccine-idUSKCN24M0ZF",
+        "headline": "South Korea's SK Bioscience in deal with AstraZeneca on vaccine",
+        "publication": "Reuters",
+        "timestamp": 1595304000,
+        "info": [
+            {
+                "country": "South Korea",
+                "vaccine": "OxfordAZ",
+                "interest": 100,
+                "description": "Will set up production in Korea for global and Korean distribution"
+            }
+        ]
     }
 ]
