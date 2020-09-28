@@ -573,19 +573,6 @@
         ]
     },
     {
-        "url": "https://news.bloomberglaw.com/coronavirus/sweden-to-join-eus-astrazeneca-agreement-on-covid-19-vaccine",
-        "headline": "Sweden to Join EU\u2019s AstraZeneca Agreement on Covid-19 Vaccine",
-        "publication": "Bloomberg Law",
-        "timestamp": 1597934460,
-        "info": [
-            {
-                "country": "Sweden",
-                "vaccine": "OxfordAZ",
-                "doses": 6000000
-            }
-        ]
-    },
-    {
         "url": "https://www.reuters.com/article/us-health-coronavirus-israel-russia/israel-to-examine-russias-covid-19-vaccine-minister-says-idUSKCN258139",
         "headline": "Israel to examine Russia's COVID-19 vaccine, minister says",
         "publication": "Reuters",
