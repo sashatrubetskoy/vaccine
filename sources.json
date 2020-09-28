@@ -349,6 +349,19 @@
         ]
     },
     {
+        "url": "https://tass.com/society/1199001",
+        "headline": "Mexico to receive 32 mln doses of Sputnik V vaccine \u2014 Russian Direct Investments Fund",
+        "publication": "TASS",
+        "timestamp": 1599624000,
+        "info": [
+            {
+                "country": "Mexico",
+                "vaccine": "Sputnik",
+                "doses": 32000000
+            }
+        ]
+    },
+    {
         "url": "https://www.reuters.com/article/us-health-coronavirus-kazakhstan-russia/kazakhstan-secures-supplies-of-russian-covid-19-vaccine-candidate-idUSKBN25M0JW",
         "headline": "Kazakhstan secures supplies of Russian COVID-19 vaccine candidate",
         "publication": "Reuters",
@@ -1218,8 +1231,46 @@
                 "country": "Canada",
                 "vaccine": "OxfordAZ",
                 "doses": 20000000,
-                "description": "Up to 20M doses in 2021 should trials succeed"
+                "description": "Up to 20,000,000 doses in 2021 should trials succeed"
             }
         ]
+    },
+    {
+        "url": "https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-sign-agreements-with-the-government-of-canada-to-supply-up-to-72-million-doses-of-adjuvanted-covid-19-vaccine/",
+        "headline": "Sanofi and GSK sign agreements with the Government of Canada to supply up to 72 million doses of adjuvanted COVID-19 vaccine",
+        "publication": "GSK",
+        "timestamp": 1600747200,
+        "info": [
+            {
+                "country": "Canada",
+                "vaccine": "GSKSanofi",
+                "doses": 72000000,
+                "description": "Up to 72,000,000 doses in 2021 should trials succeed"
+            }
+        ]
+    },
+    {
+        "url": "https://chiletoday.cl/site/chile-to-participate-in-phase-iii-covid-19-vaccine-trial/",
+        "headline": "Chile To Participate In Phase III Covid-19 Vaccine Trial",
+        "publication": "Chile Today",
+        "timestamp": 1598414400,
+        "info": {
+            "country": "Chile",
+            "vaccine": "Sinovac",
+            "interest": 30,
+            "description": "Possible phase III trial"
+        }
+    },
+    {
+        "url": "https://www.reuters.com/article/health-coronavirus-russia-uzbekistan/russia-agrees-to-supply-35-mln-doses-of-covid-19-vaccine-to-uzbekistan-rdif-idUSR4N2GD04V",
+        "headline": "Russia agrees to supply 35 million doses of COVID-19 vaccine to Uzbekistan",
+        "publication": "Reuters",
+        "timestamp": 1601006400,
+        "info": {
+            "country": "Uzbekistan",
+            "vaccine": "Sputnik",
+            "doses": 35000000,
+            "description": "Up to 35,000,000 doses"
+        }
     }
 ]
