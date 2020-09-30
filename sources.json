@@ -1344,5 +1344,19 @@
                 "doses": 25000000
             }
         ]
+    },
+    {
+        "url": "https://www.kyivpost.com/world/moldova-expects-to-import-russian-coronavirus-vaccine.html",
+        "headline": "Moldova expects to import Russian coronavirus vaccine",
+        "publication": "Kyiv Post",
+        "timestamp": 1597377600,
+        "info": [
+            {
+                "country": "Moldova",
+                "vaccine": "Sputnik",
+                "interest": 60,
+                "description": "President expects to order Sputnik V when ready"
+            }
+        ]
     }
 ]
