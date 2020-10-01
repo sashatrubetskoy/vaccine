@@ -1,0 +1,310 @@
+[
+    {
+        "alias": "BNTPfizer",
+        "name": "BioNTech/Pfizer",
+        "officialName": "BNT162",
+        "locations": [
+            {
+                "coordinates": [
+                    -74.0218,
+                    41.059
+                ],
+                "description": "Pfizer Pearl River, NY Lab"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8",
+            "\ud83c\udde9\ud83c\uddea"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "OxfordAZ",
+        "name": "Oxford/AstraZeneca",
+        "officialName": "AZD1222",
+        "locations": [
+            {
+                "coordinates": [
+                    1.2974,
+                    52.6309
+                ],
+                "description": "Oxford University"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddec\ud83c\udde7"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "GSKSanofi",
+        "name": "GSK/Sanofi",
+        "officialName": "None",
+        "locations": [
+            {
+                "coordinates": [
+                    2.3522,
+                    48.8566
+                ],
+                "description": "Sanofi HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddec\ud83c\udde7",
+            "\ud83c\uddeb\ud83c\uddf7"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "Novavax",
+        "name": "Novavax",
+        "officialName": "NVX-CoV2373",
+        "locations": [
+            {
+                "coordinates": [
+                    -77.1528,
+                    39.084
+                ],
+                "description": "Novavax HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "Sputnik",
+        "name": "Sputnik V",
+        "officialName": "Gam-COVID-Vac",
+        "locations": [
+            {
+                "coordinates": [
+                    37.6173,
+                    55.7558
+                ],
+                "description": "Gamaleya Institute"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddf7\ud83c\uddfa"
+        ],
+        "alliance": "Russia"
+    },
+    {
+        "alias": "Moderna",
+        "name": "Moderna",
+        "officialName": "mRNA-1273",
+        "locations": [
+            {
+                "coordinates": [
+                    -71.1097,
+                    42.3736
+                ],
+                "description": "Moderna HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddfa\ud83c\uddf8"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "Sinovac",
+        "name": "Sinovac",
+        "officialName": "CoronaVac",
+        "locations": [
+            {
+                "coordinates": [
+                    114.3055,
+                    30.5928
+                ],
+                "description": "Wuhan Lab"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ],
+        "alliance": "China"
+    },
+    {
+        "alias": "CNBG",
+        "name": "CNBG/Sinopharm",
+        "officialName": "None",
+        "locations": [
+            {
+                "coordinates": [
+                    116.4074,
+                    39.9042
+                ],
+                "description": "Sinopharm HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ],
+        "alliance": "China"
+    },
+    {
+        "alias": "Walvax",
+        "name": "Walvax/PLA",
+        "officialName": "None",
+        "locations": [
+            {
+                "coordinates": [
+                    119,
+                    39.9042
+                ],
+                "description": "CanSinoBIO HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ],
+        "alliance": "China"
+    },
+    {
+        "alias": "CanSino",
+        "name": "CanSinoBIO",
+        "officialName": "Ad5-nCoV",
+        "locations": [
+            {
+                "coordinates": [
+                    102.8329,
+                    24.8801
+                ],
+                "description": "Walvax HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddf3"
+        ],
+        "alliance": "China"
+    },
+    {
+        "alias": "Janssen",
+        "name": "Janssen",
+        "officialName": "Ad26.COV2.S",
+        "locations": [
+            {
+                "coordinates": [
+                    3.2247,
+                    51.2093
+                ],
+                "description": "Janssen HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde7\ud83c\uddea"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "Genexine",
+        "name": "Genexine",
+        "officialName": "GX-19",
+        "locations": [
+            {
+                "coordinates": [
+                    126.978,
+                    37.5665
+                ],
+                "description": "Genexine HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddf0\ud83c\uddf7"
+        ],
+        "alliance": "Other"
+    },
+    {
+        "alias": "Thai vaccine",
+        "name": "Thai vaccine",
+        "officialName": "None",
+        "locations": [
+            {
+                "coordinates": [
+                    100.5018,
+                    13.7563
+                ],
+                "description": "National Vaccine Institute"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddf9\ud83c\udded"
+        ],
+        "alliance": "Other"
+    },
+    {
+        "alias": "Iranian vaccine",
+        "name": "Iranian vaccine",
+        "officialName": "None",
+        "locations": [
+            {
+                "coordinates": [
+                    51.389,
+                    35.6892
+                ],
+                "description": "Iran University of Medical Sciences"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddf9\ud83c\udded"
+        ],
+        "alliance": "Other"
+    },
+    {
+        "alias": "Soberana",
+        "name": "Soberana",
+        "officialName": "Soberana 01",
+        "locations": [
+            {
+                "coordinates": [
+                    -82.3666,
+                    23.1136
+                ],
+                "description": "Finlay Institute"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde8\ud83c\uddfa"
+        ],
+        "alliance": "Other"
+    },
+    {
+        "alias": "Valneva",
+        "name": "Valneva",
+        "officialName": "VLA2001",
+        "locations": [
+            {
+                "coordinates": [
+                    -1.6514,
+                    47.2103
+                ],
+                "description": "Valneva HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\uddeb\ud83c\uddf7"
+        ],
+        "alliance": "US/Europe"
+    },
+    {
+        "alias": "CureVac",
+        "name": "CureVac",
+        "officialName": "CVnCoV",
+        "locations": [
+            {
+                "coordinates": [
+                    9.0576,
+                    48.5216
+                ],
+                "description": "CureVac HQ"
+            }
+        ],
+        "flags": [
+            "\ud83c\udde9\ud83c\uddea"
+        ],
+        "alliance": "US/Europe"
+    }
+]
